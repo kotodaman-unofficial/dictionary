@@ -1,0 +1,43 @@
+{
+  "name": "@kotodaman-unofficial/dictionary",
+  "description": "Kotodaman (iPhone App Game) dictionary data and word finder",
+  "version": "0.0.0-pre",
+  "main": "dist/finder.js",
+  "scripts": {
+    "start": "abby format, test --watch \"{*,src/*,test/*}.mjs\"",
+    "build": "abby build:*",
+    "build:words": "node-esm archive.mjs",
+    "build:finder": "node --max-old-space-size=8192 node_modules/.bin/rollup --config",
+    "format": "prettier --write \"{*,src/*,test/*}.mjs\"",
+    "test": "eastern"
+  },
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "timsort": "^0.3.0"
+  },
+  "devDependencies": {
+    "abigail": "^1.9.5",
+    "assert-diff": "^2.0.3",
+    "eastern": "^2.0.1",
+    "eastern-cli": "^1.0.0",
+    "node-esm": "^1.0.0",
+    "prettier": "^1.17.1",
+    "rollup": "^1.12.4",
+    "rollup-plugin-commonjs": "^10.0.0",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotodaman-unofficial/dictionary.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kotodaman-unofficial/dictionary/issues"
+  },
+  "homepage": "https://github.com/kotodaman-unofficial/dictionary#readme",
+}

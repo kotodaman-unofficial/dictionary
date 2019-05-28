@@ -1,0 +1,6673 @@
+あい:
+  displays:
+    - 愛
+    - 合い
+    - 藍
+    - アイ
+    - AI
+    - 愛はそこにある・アイ
+  themas:
+    - 植物・キノコ
+    - 色
+あお:
+  displays:
+    - 青
+    - 粟生
+  themas:
+    - 色
+あか:
+  displays:
+    - 赤
+    - 緋
+    - 朱
+    - 紅
+    - 垢
+  themas:
+    - 色
+あき:
+  displays:
+    - 秋
+    - 安芸
+    - 阿貴
+  themas:
+    - 三国志
+あぎ:
+  displays:
+    - 阿木
+あく:
+  displays:
+    - 悪
+    - 灰汁
+あけ:
+  displays:
+    - 明け
+あげ:
+  displays:
+    - 揚げ
+    - 上ゲ
+あこ:
+  displays:
+    - 吾子
+あご:
+  displays:
+    - 顎
+    - 網子
+  themas:
+    - 身体
+あさ:
+  displays:
+    - 朝
+    - 麻
+    - アサ
+    - 厚狭
+  themas:
+    - 植物・キノコ
+あざ:
+  displays:
+    - 痣
+あし:
+  displays:
+    - 足
+    - 葦
+    - 脚
+    - 足/脚/肢
+  themas:
+    - 植物・キノコ
+    - 身体
+あじ:
+  displays:
+    - 味
+    - 鯵
+    - アジ
+  themas:
+    - 魚介
+あす:
+  displays:
+    - 明日
+あせ:
+  displays:
+    - 汗
+あぜ:
+  displays:
+    - 畦
+あそ:
+  displays:
+    - 阿蘇
+あだ:
+  displays:
+    - 仇
+あつ:
+  displays:
+    - 圧
+    - 厚保
+あて:
+  displays:
+    - 宛て
+    - アテ
+  themas:
+    - 植物・キノコ
+あと:
+  displays:
+    - 後
+    - 痕
+    - 跡
+    - 安登
+あな:
+  displays:
+    - 穴
+    - ANA
+    - アナ・ウェインズ
+  themas:
+    - セガ
+あに:
+  displays:
+    - 兄
+    - 義兄
+あぬ:
+  displays:
+    - アヌ
+あね:
+  displays:
+    - 姉
+あぱ:
+  displays:
+    - アパ
+あび:
+  displays:
+    - 阿比
+    - アビ
+  themas:
+    - 鳥
+    - いきもの
+あぶ:
+  displays:
+    - 虻
+    - アブ
+  themas:
+    - いきもの
+あべ:
+  displays:
+    - 安部
+あほ:
+  displays:
+    - 阿呆
+あぽ:
+  displays:
+    - アポ
+あま:
+  displays:
+    - 海女
+    - 尼
+    - 亜麻
+    - 海人
+    - アマ
+    - 天
+  themas:
+    - 植物・キノコ
+あみ:
+  displays:
+    - 網
+あめ:
+  displays:
+    - 雨
+    - 飴
+  themas:
+    - 天気
+あや:
+  displays:
+    - 綾
+あゆ:
+  displays:
+    - 鮎
+    - アユ
+  themas:
+    - 魚介
+    - いきもの
+あら:
+  displays:
+    - 粗
+    - アラ
+    - 美麗王アラ
+  themas:
+    - 魚介
+    - いきもの
+あり:
+  displays:
+    - 蟻
+  themas:
+    - いきもの
+あわ:
+  displays:
+    - 泡
+    - 粟
+    - アワ
+    - 安和
+    - 阿波
+    - 安房
+  themas:
+    - 植物・キノコ
+あん:
+  displays:
+    - 案
+    - 暗
+    - 庵
+    - 餡
+    - 杏
+    - アン
+いい:
+  displays:
+    - Ｅ
+    - 飯井
+いえ:
+  displays:
+    - 家
+いお:
+  displays:
+    - イオ
+  themas:
+    - 星
+いか:
+  displays:
+    - 医科
+    - 以下
+    - イカ
+  themas:
+    - いきもの
+    - 魚介
+いが:
+  displays:
+    - 毬
+    - 伊賀
+いき:
+  displays:
+    - 息
+    - 粋
+    - 域
+    - 遺棄
+    - 意気
+    - 壱岐
+いぎ:
+  displays:
+    - 意義
+    - 異議
+いく:
+  displays:
+    - 偉躯
+いけ:
+  displays:
+    - 池
+  themas:
+    - 自然地形
+いこ:
+  displays:
+    - ＩCO
+    - ICO
+いご:
+  displays:
+    - 囲碁
+    - イゴ
+  themas:
+    - 植物・キノコ
+いさ:
+  displays:
+    - 石原
+いし:
+  displays:
+    - 石
+    - 意思
+    - 意志
+    - 医師
+いじ:
+  displays:
+    - 意地
+    - 維持
+いす:
+  displays:
+    - 椅子
+いず:
+  displays:
+    - 伊豆
+いせ:
+  displays:
+    - 伊勢
+いそ:
+  displays:
+    - 磯
+  themas:
+    - 自然地形
+いた:
+  displays:
+    - 板
+いち:
+  displays:
+    - 位置
+    - 市
+    - '1'
+いつ:
+  displays:
+    - 何時
+いて:
+  displays:
+    - 射手
+いで:
+  displays:
+    - 井手
+    - 井出
+いと:
+  displays:
+    - 糸
+    - 意図
+いど:
+  displays:
+    - 井戸
+    - 緯度
+いな:
+  displays:
+    - 否
+    - 維那
+    - 伊奈
+    - イナ
+いぬ:
+  displays:
+    - 犬
+    - 戌
+    - イヌ
+  themas:
+    - 哺乳類
+    - いきもの
+いね:
+  displays:
+    - 稲
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+いの:
+  displays:
+    - 井野
+いは:
+  displays:
+    - 異派
+いば:
+  displays:
+    - 射場
+いび:
+  displays:
+    - 揖斐
+いふ:
+  displays:
+    - 畏怖
+    - 移付
+    - 異父
+    - 委付
+いぶ:
+  displays:
+    - イヴ
+いほ:
+  displays:
+    - 伊保
+いぼ:
+  displays:
+    - 異母
+    - 疣
+いま:
+  displays:
+    - 今
+    - 居間
+いみ:
+  displays:
+    - 意味
+    - 忌み
+いむ:
+  displays:
+    - 医務
+いも:
+  displays:
+    - 芋
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+いや:
+  displays:
+    - 嫌
+    - 揖屋
+    - 葦夜神
+いよ:
+  displays:
+    - 伊予
+いら:
+  displays:
+    - イラ
+  themas:
+    - いきもの
+    - 魚介
+いり:
+  displays:
+    - 入り
+    - 伊里
+いろ:
+  displays:
+    - 色
+いわ:
+  displays:
+    - 岩
+いん:
+  displays:
+    - 印
+    - 韻
+うい:
+  displays:
+    - 有為
+うう:
+  displays:
+    - Wooo
+うえ:
+  displays:
+    - 上
+うお:
+  displays:
+    - 魚
+うか:
+  displays:
+    - 羽化
+    - 雨下
+    - ウ科
+  themas:
+    - 鳥
+うき:
+  displays:
+    - 雨期
+    - 雨季
+うけ:
+  displays:
+    - 受け
+うげ:
+  displays:
+    - 有家
+うご:
+  displays:
+    - 雨後
+    - ウゴ
+    - 羽後
+  themas:
+    - 植物・キノコ
+うさ:
+  displays:
+    - 宇佐
+うし:
+  displays:
+    - 牛
+    - 丑
+    - ウシ
+  themas:
+    - 哺乳類
+    - いきもの
+うじ:
+  displays:
+    - 蛆
+    - 氏
+    - 宇治
+うす:
+  displays:
+    - 臼
+    - 有珠
+うず:
+  displays:
+    - 渦
+    - 右図
+うそ:
+  displays:
+    - 嘘
+    - 鷽
+    - ウソ
+  themas:
+    - いきもの
+    - 鳥
+うた:
+  displays:
+    - 歌
+うち:
+  displays:
+    - 家
+    - 内
+    - 中
+うつ:
+  displays:
+    - 鬱
+うて:
+  displays:
+    - 右手
+うで:
+  displays:
+    - 腕
+  themas:
+    - 身体
+うと:
+  displays:
+    - 宇土
+うど:
+  displays:
+    - 独活
+    - ウド
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+うに:
+  displays:
+    - 雲丹
+    - うに
+    - ウニ
+  themas:
+    - いきもの
+    - 魚介
+うね:
+  displays:
+    - 畝
+うの:
+  displays:
+    - 宇野
+    - ウノ
+うは:
+  displays:
+    - 右派
+うば:
+  displays:
+    - 乳母
+    - 姥
+うぶ:
+  displays:
+    - 初
+    - 初心
+うべ:
+  displays:
+    - ウベ
+    - 宇部
+  themas:
+    - 植物・キノコ
+うま:
+  displays:
+    - 馬
+    - 午
+    - ウマ
+  themas:
+    - 哺乳類
+    - いきもの
+    - 魚介
+うみ:
+  displays:
+    - 海
+    - 膿
+  themas:
+    - 自然地形
+うむ:
+  displays:
+    - 有無
+うめ:
+  displays:
+    - 梅
+  themas:
+    - 植物・キノコ
+    - 野菜・果物
+うよ:
+  displays:
+    - 紆余
+うら:
+  displays:
+    - 裏
+    - 浦
+    - 宇良
+  themas:
+    - 自然地形
+うり:
+  displays:
+    - 瓜
+    - ウリ
+  themas:
+    - 植物・キノコ
+    - 野菜・果物
+うる:
+  displays:
+    - 粳
+    - ウル
+うろ:
+  displays:
+    - 洞
+    - 空
+    - 虚
+うん:
+  displays:
+    - 運
+えあ:
+  displays:
+    - エア
+えい:
+  displays:
+    - エイ
+    - エイ(魚)
+    - 頴娃
+  themas:
+    - いきもの
+    - 魚介
+ええ:
+  displays:
+    - Ａ
+えき:
+  displays:
+    - 駅
+    - 液
+えぎ:
+  displays:
+    - 江木
+えこ:
+  displays:
+    - エコ
+えご:
+  displays:
+    - エゴ
+  themas:
+    - 植物・キノコ
+えさ:
+  displays:
+    - 餌
+えし:
+  displays:
+    - 絵師
+    - 壊死
+えす:
+  displays:
+    - Ｓ
+えず:
+  displays:
+    - 絵図
+    - 画図
+えせ:
+  displays:
+    - 似非
+えそ:
+  displays:
+    - 壊疽
+    - 狗母魚
+  themas:
+    - 魚介
+えぞ:
+  displays:
+    - 蝦夷
+えだ:
+  displays:
+    - 枝
+    - 江田
+えつ:
+  displays:
+    - 悦
+    - エツ
+  themas:
+    - いきもの
+    - 魚介
+えて:
+  displays:
+    - 得手
+えと:
+  displays:
+    - 干支
+えど:
+  displays:
+    - 江戸
+えな:
+  displays:
+    - 恵那
+えぬ:
+  displays:
+    - 'N'
+えば:
+  displays:
+    - 絵羽
+    - エヴァ
+    - 江波
+    - エヴァ【コラボ】
+えび:
+  displays:
+    - 海老
+    - エビ
+    - 江尾
+  themas:
+    - 魚介
+えふ:
+  displays:
+    - Ｆ
+えぺ:
+  displays:
+    - エペ
+えま:
+  displays:
+    - 絵馬
+えみ:
+  displays:
+    - 笑み
+    - 江見
+    - エミ
+  themas:
+    - セガ
+えむ:
+  displays:
+    - М
+えや:
+  displays:
+    - 絵屋
+えら:
+  displays:
+    - 鰓
+    - えら
+    - 恵良
+  themas:
+    - 身体
+えり:
+  displays:
+    - 襟
+える:
+  displays:
+    - L
+えろ:
+  displays:
+    - エロ
+えん:
+  displays:
+    - 円
+おい:
+  displays:
+    - 甥
+おう:
+  displays:
+    - 王
+    - オウ
+  themas:
+    - いきもの
+    - 鳥
+おえ:
+  displays:
+    - 小江
+おお:
+  displays:
+    - O
+おか:
+  displays:
+    - 丘
+  themas:
+    - 自然地形
+おが:
+  displays:
+    - 男鹿
+おき:
+  displays:
+    - 沖
+    - 隠岐
+おぎ:
+  displays:
+    - 荻
+    - 小城
+  themas:
+    - 植物・キノコ
+おく:
+  displays:
+    - 億
+    - 奥
+    - 尾久
+おけ:
+  displays:
+    - 桶
+おさ:
+  displays:
+    - 長
+おし:
+  displays:
+    - 御師
+おじ:
+  displays:
+    - 叔父
+    - 伯父
+おす:
+  displays:
+    - 雄
+    - 牡
+おず:
+  displays:
+    - OZ
+おぜ:
+  displays:
+    - 尾瀬
+おだ:
+  displays:
+    - 小田
+おち:
+  displays:
+    - オチ
+おつ:
+  displays:
+    - 乙
+おて:
+  displays:
+    - お手
+おと:
+  displays:
+    - 音
+おな:
+  displays:
+    - 尾奈
+おに:
+  displays:
+    - 鬼
+おね:
+  displays:
+    - 尾根
+  themas:
+    - 自然地形
+おの:
+  displays:
+    - 斧
+    - 小野
+おば:
+  displays:
+    - 叔母
+    - 伯母
+    - オバ
+おび:
+  displays:
+    - 帯
+    - 飫肥
+おふ:
+  displays:
+    - 'OFF'
+おぺ:
+  displays:
+    - オペ
+おや:
+  displays:
+    - 親
+    - オヤ
+おゆ:
+  displays:
+    - お湯
+おり:
+  displays:
+    - 檻
+おろ:
+  displays:
+    - 悪露
+おん:
+  displays:
+    - 恩
+かい:
+  displays:
+    - 貝
+    - 甲斐
+    - 快
+  themas:
+    - いきもの
+    - 魚介
+かえ:
+  displays:
+    - 替え
+かお:
+  displays:
+    - 顔
+    - 顏
+  themas:
+    - 身体
+かか:
+  displays:
+    - カカ
+  themas:
+    - いきもの
+    - 鳥
+かが:
+  displays:
+    - 花芽
+    - 夏芽
+    - 加賀
+かき:
+  displays:
+    - 柿
+    - 牡蠣
+    - 火気
+    - 火器
+    - 夏季
+    - 夏期
+    - 下記
+    - 賈逵
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+    - 魚介
+    - 三国志
+かぎ:
+  displays:
+    - 鍵
+    - 何儀
+  themas:
+    - 三国志
+かく:
+  displays:
+    - 核
+    - 賈詡
+    - 賀来
+  themas:
+    - 三国志
+かぐ:
+  displays:
+    - 家具
+    - 火具
+かけ:
+  displays:
+    - 賭け
+かげ:
+  displays:
+    - 影
+    - 鹿毛
+    - 陰
+  themas:
+    - セガ
+かこ:
+  displays:
+    - 過去
+    - 鹿児
+かご:
+  displays:
+    - 籠
+    - 加護
+    - 駕籠
+    - 柯吾
+  themas:
+    - 三国志
+かさ:
+  displays:
+    - 傘
+    - 嵩
+    - 笠
+    - 暈
+  themas:
+    - 天気
+かし:
+  displays:
+    - 菓子
+    - 河岸
+    - 歌詞
+    - 仮死
+    - 樫
+    - 下肢
+  themas:
+    - 植物・キノコ
+    - 身体
+かじ:
+  displays:
+    - 火事
+    - 鍛冶
+    - 舵
+    - 家事
+    - 夏時
+    - 加治
+    - 加持リョウジ【コラボ】
+かす:
+  displays:
+    - 粕
+かず:
+  displays:
+    - 数
+    - 下図
+かせ:
+  displays:
+    - 枷
+    - 嘉瀬
+かぜ:
+  displays:
+    - 風邪
+    - 風
+  themas:
+    - 天気
+かそ:
+  displays:
+    - 過疎
+かぞ:
+  displays:
+    - 加須
+かた:
+  displays:
+    - 肩
+    - 型
+    - 賀田
+  themas:
+    - 身体
+かだ:
+  displays:
+    - 華佗
+  themas:
+    - 三国志
+かち:
+  displays:
+    - 勝ち
+    - 徒歩
+    - 価値
+かつ:
+  displays:
+    - 喝
+    - カツ
+かて:
+  displays:
+    - 糧
+かと:
+  displays:
+    - 過渡
+    - 加斗
+かど:
+  displays:
+    - 角
+    - 門
+    - 過度
+    - カド
+    - 鹿渡
+  themas:
+    - いきもの
+    - 魚介
+かな:
+  displays:
+    - 仮名
+かに:
+  displays:
+    - 蟹
+    - カニ
+    - 可児
+  themas:
+    - いきもの
+    - 魚介
+かね:
+  displays:
+    - 金
+    - 鐘
+かば:
+  displays:
+    - カバ
+  themas:
+    - 哺乳類
+    - いきもの
+かぱ:
+  displays:
+    - カパ
+かひ:
+  displays:
+    - 可否
+    - 下ヒ
+  themas:
+    - 三国志
+かび:
+  displays:
+    - カビ
+  themas:
+    - 植物・キノコ
+かふ:
+  displays:
+    - 寡婦
+    - 火夫
+    - 家譜
+    - 家父
+    - 下付
+    - カフ
+  themas:
+    - 星
+かぶ:
+  displays:
+    - 株
+    - 下部
+    - 蕪
+    - カブ
+  themas:
+    - 植物・キノコ
+かべ:
+  displays:
+    - 壁
+    - 河辺
+かぼ:
+  displays:
+    - 家母
+かま:
+  displays:
+    - 釜
+    - 窯
+    - 鎌
+かみ:
+  displays:
+    - 紙
+    - 神
+    - 髪
+  themas:
+    - 身体
+かめ:
+  displays:
+    - 亀
+    - 瓶
+    - カメ
+  themas:
+    - いきもの
+かも:
+  displays:
+    - 鴨
+    - 賀茂
+    - 迦毛大御神
+  themas:
+    - いきもの
+    - 鳥
+かや:
+  displays:
+    - 蚊帳
+    - 茅
+  themas:
+    - 植物・キノコ
+かゆ:
+  displays:
+    - 粥
+から:
+  displays:
+    - 殻
+    - 空
+    - KARA
+    - 韓神
+かり:
+  displays:
+    - 狩り
+    - 仮
+    - 雁
+  themas:
+    - いきもの
+    - 鳥
+かる:
+  displays:
+    - カル
+かれ:
+  displays:
+    - 彼
+    - カレ
+  themas:
+    - 星
+かろ:
+  displays:
+    - 火炉
+かわ:
+  displays:
+    - 川
+    - 皮
+    - 河
+  themas:
+    - 自然地形
+かん:
+  displays:
+    - 潤
+    - 缶
+    - KAN
+がい:
+  displays:
+    - 垓
+    - 害
+がう:
+  displays:
+    - ガウ
+がか:
+  displays:
+    - 画家
+    - 画架
+がが:
+  displays:
+    - 峨々
+    - GAGA
+がき:
+  displays:
+    - 餓鬼
+    - 瓦器
+がく:
+  displays:
+    - 額
+    - 岳
+    - 学
+がけ:
+  displays:
+    - 崖
+  themas:
+    - 自然地形
+がし:
+  displays:
+    - 餓死
+がす:
+  displays:
+    - ガス
+がず:
+  displays:
+    - ガズ
+  themas:
+    - いきもの
+    - 魚介
+がせ:
+  displays:
+    - ガセ
+    - がせ
+がそ:
+  displays:
+    - 画素
+がち:
+  displays:
+    - ガチ
+    - がち
+がつ:
+  displays:
+    - ガツ
+がふ:
+  displays:
+    - 画布
+がま:
+  displays:
+    - ガマ
+    - 蝦蟇
+    - 蒲
+  themas:
+    - 植物・キノコ
+がむ:
+  displays:
+    - ガム
+  themas:
+    - セガ
+がや:
+  displays:
+    - ガヤ
+がら:
+  displays:
+    - 柄
+がり:
+  displays:
+    - ガリ
+がわ:
+  displays:
+    - 側
+がん:
+  displays:
+    - 癌
+    - 雁
+  themas:
+    - いきもの
+    - 鳥
+きい:
+  displays:
+    - 奇異
+    - 紀伊
+きう:
+  displays:
+    - 祈雨
+    - 気宇
+きえ:
+  displays:
+    - 帰依
+きか:
+  displays:
+    - 気化
+    - 帰化
+    - 幾何
+  themas:
+    - 学校の教科
+きが:
+  displays:
+    - 飢餓
+    - 気賀
+きき:
+  displays:
+    - 危機
+    - 鬼気
+    - 機器
+    - 奇々
+    - 木岐
+きぎ:
+  displays:
+    - 木々
+きく:
+  displays:
+    - 菊
+    - キク
+  themas:
+    - 植物・キノコ
+きぐ:
+  displays:
+    - 器具
+    - 機具
+    - 危惧
+きこ:
+  displays:
+    - 旗鼓
+きご:
+  displays:
+    - 季語
+きさ:
+  displays:
+    - 吉舎
+きざ:
+  displays:
+    - 気障
+きし:
+  displays:
+    - 岸
+    - 騎士
+    - 棋士
+    - 貴志
+きじ:
+  displays:
+    - 記事
+    - 雉
+    - 生地
+    - キジ
+  themas:
+    - いきもの
+    - 鳥
+きす:
+  displays:
+    - キス
+    - 鱚
+  themas:
+    - いきもの
+    - 魚介
+きず:
+  displays:
+    - 傷
+きそ:
+  displays:
+    - 基礎
+    - 起訴
+きた:
+  displays:
+    - 北
+    - 喜多
+きだ:
+  displays:
+    - 木田
+きち:
+  displays:
+    - 基地
+    - 吉
+きづ:
+  displays:
+    - 木津
+きと:
+  displays:
+    - 帰途
+    - キト
+きど:
+  displays:
+    - 輝度
+    - 木戸
+きぬ:
+  displays:
+    - 絹
+きね:
+  displays:
+    - 杵
+きの:
+  displays:
+    - 木野
+きば:
+  displays:
+    - 牙
+    - 騎馬
+    - 木場
+  themas:
+    - 身体
+きひ:
+  displays:
+    - 忌避
+きび:
+  displays:
+    - きび
+    - 機微
+    - キビ
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+きふ:
+  displays:
+    - 寄付
+    - 棋譜
+きぶ:
+  displays:
+    - 基部
+きぼ:
+  displays:
+    - 規模
+きみ:
+  displays:
+    - 黄身
+    - 君
+    - 気味
+    - "木見\_"
+きめ:
+  displays:
+    - 肌理
+きも:
+  displays:
+    - 胆
+    - キモ
+  themas:
+    - 身体
+きよ:
+  displays:
+    - 寄与
+    - 木与
+きら:
+  displays:
+    - 綺羅
+    - KIRA
+きり:
+  displays:
+    - 桐
+    - 霧
+    - 錐
+  themas:
+    - 植物・キノコ
+    - 天気
+きれ:
+  displays:
+    - 吉礼
+きろ:
+  displays:
+    - 帰路
+    - 岐路
+きわ:
+  displays:
+    - 際
+    - 岐波
+きん:
+  displays:
+    - 金
+    - 菌
+    - 巾
+  themas:
+    - 色
+ぎあ:
+  displays:
+    - ギア
+ぎい:
+  displays:
+    - ギー
+ぎか:
+  displays:
+    - 偽果
+ぎが:
+  displays:
+    - ギガ
+    - 戯画
+ぎぎ:
+  displays:
+    - ギギ
+  themas:
+    - いきもの
+    - 魚介
+ぎぐ:
+  displays:
+    - ギグ
+ぎし:
+  displays:
+    - 技師
+    - 義歯
+    - 義肢
+ぎじ:
+  displays:
+    - 擬似
+    - 議事
+ぎだ:
+  displays:
+    - 犠打
+ぎと:
+  displays:
+    - 擬斗
+ぎば:
+  displays:
+    - ギバ
+ぎふ:
+  displays:
+    - 岐阜
+    - 義父
+ぎぼ:
+  displays:
+    - 義母
+    - 儀保
+ぎま:
+  displays:
+    - ギマ
+  themas:
+    - いきもの
+    - 魚介
+ぎむ:
+  displays:
+    - 義務
+ぎや:
+  displays:
+    - ギヤ
+ぎら:
+  displays:
+    - ギラ
+ぎり:
+  displays:
+    - 義理
+ぎろ:
+  displays:
+    - ギロ
+ぎん:
+  displays:
+    - 銀
+    - 吟
+  themas:
+    - 色
+くい:
+  displays:
+    - クイ
+    - 杭
+  themas:
+    - 哺乳類
+    - いきもの
+くう:
+  displays:
+    - Qoo
+    - クー
+くえ:
+  displays:
+    - クエ
+  themas:
+    - いきもの
+    - 魚介
+くが:
+  displays:
+    - 玖珂
+くき:
+  displays:
+    - 茎
+    - 九鬼
+    - 久喜
+  themas:
+    - 植物・キノコ
+くぎ:
+  displays:
+    - 釘
+くく:
+  displays:
+    - 九九
+    - 九々
+くげ:
+  displays:
+    - 公家
+くこ:
+  displays:
+    - クコ
+    - 枸杞
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+くさ:
+  displays:
+    - 草
+  themas:
+    - 植物・キノコ
+くし:
+  displays:
+    - 串
+    - 櫛
+くじ:
+  displays:
+    - 籤
+    - 籖
+    - 久地
+くす:
+  displays:
+    - 楠
+くず:
+  displays:
+    - クズ
+    - 屑
+    - 葛
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+くせ:
+  displays:
+    - 癖
+    - 久世
+くそ:
+  displays:
+    - 糞
+くだ:
+  displays:
+    - 管
+くち:
+  displays:
+    - 口
+  themas:
+    - 身体
+くつ:
+  displays:
+    - 靴
+くて:
+  displays:
+    - 久手
+くに:
+  displays:
+    - 国
+くば:
+  displays:
+    - 玖波
+くひ:
+  displays:
+    - 句碑
+くび:
+  displays:
+    - 首
+    - 首/頸
+  themas:
+    - 身体
+くぶ:
+  displays:
+    - 区部
+くぼ:
+  displays:
+    - 窪
+くま:
+  displays:
+    - クマ
+    - 熊
+  themas:
+    - 哺乳類
+    - いきもの
+    - セガ
+くみ:
+  displays:
+    - 組み
+くめ:
+  displays:
+    - 久米
+くも:
+  displays:
+    - 雲
+    - 蜘蛛
+    - クモ
+  themas:
+    - いきもの
+くら:
+  displays:
+    - 蔵
+    - 鞍
+くり:
+  displays:
+    - 栗
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+くれ:
+  displays:
+    - 暮れ
+    - 呉
+くろ:
+  displays:
+    - 黒
+  themas:
+    - 色
+くわ:
+  displays:
+    - 桑
+    - 鍬
+  themas:
+    - 植物・キノコ
+くん:
+  displays:
+    - 君
+ぐず:
+  displays:
+    - 愚図
+ぐち:
+  displays:
+    - 愚痴
+    - グチ
+  themas:
+    - いきもの
+    - 魚介
+ぐび:
+  displays:
+    - 具備
+ぐふ:
+  displays:
+    - 愚夫
+    - グフ
+ぐぼ:
+  displays:
+    - 愚母
+ぐみ:
+  displays:
+    - グミ
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+ぐる:
+  displays:
+    - グル
+ぐれ:
+  displays:
+    - グレ
+  themas:
+    - いきもの
+    - 魚介
+ぐろ:
+  displays:
+    - グロ
+ぐん:
+  displays:
+    - 軍
+けあ:
+  displays:
+    - ケア
+けい:
+  displays:
+    - 京
+    - 刑
+けう:
+  displays:
+    - 稀有
+けえ:
+  displays:
+    - K
+けが:
+  displays:
+    - 怪我
+    - 毛賀
+けさ:
+  displays:
+    - 今朝
+    - 袈裟
+けし:
+  displays:
+    - 芥子
+  themas:
+    - 植物・キノコ
+けた:
+  displays:
+    - 桁
+けち:
+  displays:
+    - ケチ
+けつ:
+  displays:
+    - ケツ
+  themas:
+    - 身体
+けば:
+  displays:
+    - 毛羽
+けら:
+  displays:
+    - 螻蛄
+けり:
+  displays:
+    - 蹴り
+    - ケリ
+  themas:
+    - いきもの
+    - 鳥
+けん:
+  displays:
+    - 県
+    - 剣
+    - 券
+    - 腱
+  themas:
+    - 身体
+げい:
+  displays:
+    - ゲイ
+    - 芸
+げお:
+  displays:
+    - ゲオ
+げか:
+  displays:
+    - 外科
+げき:
+  displays:
+    - 劇
+げげ:
+  displays:
+    - 解夏
+げこ:
+  displays:
+    - 下戸
+げざ:
+  displays:
+    - 下座
+げし:
+  displays:
+    - 夏至
+げじ:
+  displays:
+    - 蚰蜒
+    - ゲジ
+げす:
+  displays:
+    - 下衆
+    - 下種
+    - 下司
+げそ:
+  displays:
+    - げそ
+げた:
+  displays:
+    - 下駄
+げつ:
+  displays:
+    - 月
+げば:
+  displays:
+    - 下馬
+げぶ:
+  displays:
+    - ゲブ
+げや:
+  displays:
+    - 下屋
+げり:
+  displays:
+    - 下痢
+げる:
+  displays:
+    - ゲル
+げろ:
+  displays:
+    - ゲロ
+    - 下呂
+げん:
+  displays:
+    - 弦
+こあ:
+  displays:
+    - コア
+    - コア【コラボ】
+  themas:
+    - 植物・キノコ
+こい:
+  displays:
+    - 恋
+    - 鯉
+    - コイ
+  themas:
+    - いきもの
+    - 魚介
+こう:
+  displays:
+    - 溝
+    - 甲
+    - 府中
+こえ:
+  displays:
+    - 声
+こか:
+  displays:
+    - コカ
+  themas:
+    - 植物・キノコ
+こが:
+  displays:
+    - 古賀
+こき:
+  displays:
+    - 子機
+    - 呼気
+    - 古稀
+こく:
+  displays:
+    - 酷
+こけ:
+  displays:
+    - 苔
+  themas:
+    - 植物・キノコ
+こげ:
+  displays:
+    - 焦げ
+    - こげ
+ここ:
+  displays:
+    - 個々
+こご:
+  displays:
+    - 古語
+こざ:
+  displays:
+    - 古座
+こし:
+  displays:
+    - 腰
+    - 古紙
+    - 輿
+  themas:
+    - 身体
+こじ:
+  displays:
+    - 孤児
+    - 誇示
+    - 虎児
+    - 故事
+    - 古事
+こち:
+  displays:
+    - 東風
+    - 鯒
+    - コチ
+  themas:
+    - いきもの
+    - 魚介
+こつ:
+  displays:
+    - コツ
+こて:
+  displays:
+    - 小手
+    - 篭手
+こと:
+  displays:
+    - 琴
+    - 古都
+    - コト
+こど:
+  displays:
+    - 弧度
+こな:
+  displays:
+    - 粉
+こね:
+  displays:
+    - コネ
+こば:
+  displays:
+    - 古馬
+こひ:
+  displays:
+    - 古碑
+こび:
+  displays:
+    - 媚
+    - 古井
+こふ:
+  displays:
+    - 古布
+こぶ:
+  displays:
+    - 瘤
+    - 鼓舞
+こべ:
+  displays:
+    - 古部
+こま:
+  displays:
+    - 独楽
+    - 小間
+    - 駒
+    - 高麗
+こみ:
+  displays:
+    - 込み
+    - 古見
+こめ:
+  displays:
+    - 米
+  themas:
+    - 野菜・果物
+こや:
+  displays:
+    - 小屋
+こり:
+  displays:
+    - 凝り
+    - 古里
+これ:
+  displays:
+    - コレ
+ころ:
+  displays:
+    - 頃
+こん:
+  displays:
+    - 紺
+    - コン
+  themas:
+    - 色
+ごあ:
+  displays:
+    - ゴア
+ごい:
+  displays:
+    - 語彙
+    - 五井
+    - 呉懿
+  themas:
+    - 三国志
+ごう:
+  displays:
+    - 業
+    - 江
+ごか:
+  displays:
+    - 五和
+ごき:
+  displays:
+    - 語気
+    - 誤記
+ごぎ:
+  displays:
+    - 語義
+ごく:
+  displays:
+    - 極
+    - 語句
+ごけ:
+  displays:
+    - 後家
+ごご:
+  displays:
+    - 午後
+ごさ:
+  displays:
+    - 誤差
+ござ:
+  displays:
+    - 茣蓙
+ごじ:
+  displays:
+    - 誤字
+ごず:
+  displays:
+    - 牛頭
+ごせ:
+  displays:
+    - 御所
+ごち:
+  displays:
+    - ゴチ
+    - 五知
+ごっ:
+  displays:
+    - ゴッ
+ごて:
+  displays:
+    - 後手
+ごび:
+  displays:
+    - 語尾
+ごふ:
+  displays:
+    - 護符
+    - 碁譜
+ごぶ:
+  displays:
+    - 五分
+ごま:
+  displays:
+    - 胡麻
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+ごみ:
+  displays:
+    - ゴミ
+ごむ:
+  displays:
+    - ゴム
+ごゆ:
+  displays:
+    - 御油
+ごり:
+  displays:
+    - ゴリ
+  themas:
+    - いきもの
+    - 魚介
+ごろ:
+  displays:
+    - 語呂
+さい:
+  displays:
+    - 載
+    - サイ
+    - 差異
+    - 犀
+    - XI［sai］
+    - 西院
+  themas:
+    - 哺乳類
+    - いきもの
+さえ:
+  displays:
+    - 冴え
+さお:
+  displays:
+    - 竿
+    - 棹
+    - サオ
+  themas:
+    - 星
+さか:
+  displays:
+    - 坂
+さが:
+  displays:
+    - 佐賀
+    - 性
+さき:
+  displays:
+    - 先
+    - サキ
+  themas:
+    - 哺乳類
+    - いきもの
+さぎ:
+  displays:
+    - 詐偽
+    - 詐欺
+    - 鷺
+  themas:
+    - いきもの
+    - 鳥
+さく:
+  displays:
+    - 柵
+    - 佐久
+さけ:
+  displays:
+    - 酒
+    - 鮭
+    - サケ
+  themas:
+    - いきもの
+    - 魚介
+さげ:
+  displays:
+    - 下げ
+さこ:
+  displays:
+    - 佐古
+ささ:
+  displays:
+    - 笹
+  themas:
+    - 植物・キノコ
+さざ:
+  displays:
+    - 佐々
+さし:
+  displays:
+    - 差し
+    - 砂嘴
+  themas:
+    - 自然地形
+さじ:
+  displays:
+    - 匙
+    - 左慈
+  themas:
+    - 三国志
+さす:
+  displays:
+    - 砂州
+  themas:
+    - 自然地形
+さず:
+  displays:
+    - 左図
+さた:
+  displays:
+    - 沙汰
+さち:
+  displays:
+    - 幸
+    - サチ
+  themas:
+    - いきもの
+    - 魚介
+さつ:
+  displays:
+    - 札
+    - 佐津
+さと:
+  displays:
+    - 里
+さど:
+  displays:
+    - 佐渡
+さな:
+  displays:
+    - 佐奈
+さの:
+  displays:
+    - 佐野
+さは:
+  displays:
+    - 左派
+さば:
+  displays:
+    - 鯖
+  themas:
+    - 魚介
+    - いきもの
+さび:
+  displays:
+    - 錆
+さぶ:
+  displays:
+    - サブ
+さぼ:
+  displays:
+    - サボ
+さま:
+  displays:
+    - 様
+さめ:
+  displays:
+    - 鮫
+  themas:
+    - 魚介
+    - いきもの
+さや:
+  displays:
+    - 鞘
+    - 佐屋
+さゆ:
+  displays:
+    - 白湯
+さよ:
+  displays:
+    - 佐用
+さら:
+  displays:
+    - 皿
+    - サラ
+    - 慈愛の信徒・サラ
+さり:
+  displays:
+    - 佐里
+さる:
+  displays:
+    - サル
+    - 猿
+    - SARU
+  themas:
+    - 哺乳類
+さわ:
+  displays:
+    - 沢
+    - 佐和
+  themas:
+    - 自然地形
+さん:
+  displays:
+    - '3'
+    - 酸
+    - サン
+  themas:
+    - 星
+ざい:
+  displays:
+    - 財
+ざか:
+  displays:
+    - ザカ
+  themas:
+    - セガ
+ざき:
+  displays:
+    - ザキ
+ざく:
+  displays:
+    - ザク
+ざぐ:
+  displays:
+    - 座具
+ざこ:
+  displays:
+    - 雑魚
+ざし:
+  displays:
+    - 座視
+ざつ:
+  displays:
+    - 雑
+ざま:
+  displays:
+    - 座間
+ざら:
+  displays:
+    - zara
+    - ZARA
+ざる:
+  displays:
+    - ザル
+しい:
+  displays:
+    - 恣意
+    - Ｃ
+    - 椎
+    - 志井
+  themas:
+    - 植物・キノコ
+しう:
+  displays:
+    - 糸雨
+  themas:
+    - 天気
+しえ:
+  displays:
+    - 紫衣
+しお:
+  displays:
+    - 塩
+    - 潮
+しか:
+  displays:
+    - シカ
+    - 鹿
+  themas:
+    - 哺乳類
+    - いきもの
+しが:
+  displays:
+    - 滋賀
+    - 歯牙
+    - 志賀
+しき:
+  displays:
+    - 四季
+    - 式
+    - 指揮
+    - 死期
+    - 士気
+    - 志木
+    - 士徽
+  themas:
+    - 三国志
+しぎ:
+  displays:
+    - 市議
+    - 試技
+    - シギ
+  themas:
+    - いきもの
+    - 鳥
+しく:
+  displays:
+    - 志久
+しぐ:
+  displays:
+    - シグ
+  themas:
+    - セガ
+しけ:
+  displays:
+    - 時化
+しこ:
+  displays:
+    - シコ
+    - 四股
+  themas:
+    - いきもの
+    - 魚介
+しご:
+  displays:
+    - 私語
+    - 死語
+    - 死後
+しさ:
+  displays:
+    - 示唆
+しざ:
+  displays:
+    - 視座
+しし:
+  displays:
+    - 獅子
+    - 四肢
+    - 士祗
+  themas:
+    - 哺乳類
+    - 身体
+    - 三国志
+しじ:
+  displays:
+    - 指示
+    - 私事
+    - 支持
+しず:
+  displays:
+    - シズ
+  themas:
+    - いきもの
+    - 魚介
+しそ:
+  displays:
+    - 紫蘇
+    - 始祖
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+した:
+  displays:
+    - シタ
+    - 舌
+    - 下
+  themas:
+    - 哺乳類
+    - いきもの
+    - 身体
+しだ:
+  displays:
+    - シダ
+  themas:
+    - 植物・キノコ
+しち:
+  displays:
+    - '7'
+    - 質
+    - 私地
+    - 死地
+しつ:
+  displays:
+    - 質
+しづ:
+  displays:
+    - 志津
+して:
+  displays:
+    - 仕手
+しで:
+  displays:
+    - シデ
+  themas:
+    - 植物・キノコ
+しと:
+  displays:
+    - 使徒
+    - 使徒【コラボ】
+しど:
+  displays:
+    - 志度
+しな:
+  displays:
+    - 品
+しの:
+  displays:
+    - シノ
+  themas:
+    - セガ
+しば:
+  displays:
+    - 芝
+    - シヴァ
+  themas:
+    - 植物・キノコ
+しひ:
+  displays:
+    - 私費
+しふ:
+  displays:
+    - 師父
+しぶ:
+  displays:
+    - 支部
+しぼ:
+  displays:
+    - 思慕
+しま:
+  displays:
+    - 島
+    - 志摩
+しみ:
+  displays:
+    - 染み
+しめ:
+  displays:
+    - シメ
+    - 〆
+  themas:
+    - いきもの
+しも:
+  displays:
+    - 霜
+    - 志茂
+  themas:
+    - 天気
+しや:
+  displays:
+    - 視野
+しゅ:
+  displays:
+    - 種
+しょ:
+  displays:
+    - 書
+しよ:
+  displays:
+    - 賜与
+しら:
+  displays:
+    - 白
+しり:
+  displays:
+    - 尻
+  themas:
+    - 身体
+しる:
+  displays:
+    - 汁
+しろ:
+  displays:
+    - 白
+    - 城
+  themas:
+    - 色
+しわ:
+  displays:
+    - 皺
+しん:
+  displays:
+    - 芯
+    - シン
+じい:
+  displays:
+    - Ｇ
+    - 磁位
+じう:
+  displays:
+    - 慈雨
+    - 時雨
+  themas:
+    - 天気
+じお:
+  displays:
+    - ジ・O
+じか:
+  displays:
+    - 時価
+    - 自家
+じが:
+  displays:
+    - 自我
+    - 自画
+じき:
+  displays:
+    - 時期
+    - 磁気
+    - 時季
+じぎ:
+  displays:
+    - 児戯
+じく:
+  displays:
+    - 軸
+じけ:
+  displays:
+    - 寺家
+じげ:
+  displays:
+    - 地毛
+じこ:
+  displays:
+    - 事故
+    - 自己
+じご:
+  displays:
+    - 事後
+じさ:
+  displays:
+    - 時差
+じし:
+  displays:
+    - 侍史
+じじ:
+  displays:
+    - 時事
+じす:
+  displays:
+    - JIS（日本工業規格）
+じた:
+  displays:
+    - 自他
+じち:
+  displays:
+    - 自治
+じつ:
+  displays:
+    - 実
+じな:
+  displays:
+    - 地名
+じば:
+  displays:
+    - 磁場
+じひ:
+  displays:
+    - 慈悲
+    - 自費
+じび:
+  displays:
+    - 耳鼻
+じふ:
+  displays:
+    - 自負
+じぼ:
+  displays:
+    - 慈母
+じみ:
+  displays:
+    - 地味
+じむ:
+  displays:
+    - 事務
+    - ジム
+じょ:
+  displays:
+    - 予
+じよ:
+  displays:
+    - 時余
+じれ:
+  displays:
+    - ジレ
+じん:
+  displays:
+    - 陣
+    - ジン
+すい:
+  displays:
+    - スイ
+    - 水
+  themas:
+    - いきもの
+    - 魚介
+すう:
+  displays:
+    - 数
+すえ:
+  displays:
+    - 末
+    - 陶
+すか:
+  displays:
+    - スカ
+    - 須賀
+すが:
+  displays:
+    - スガ
+すき:
+  displays:
+    - 隙
+    - 鋤
+すぎ:
+  displays:
+    - 杉
+    - スギ
+  themas:
+    - いきもの
+    - 植物・キノコ
+    - 魚介
+すく:
+  displays:
+    - スク
+  themas:
+    - いきもの
+すさ:
+  displays:
+    - 須佐
+すし:
+  displays:
+    - 寿司
+すじ:
+  displays:
+    - 筋
+すす:
+  displays:
+    - 煤
+すず:
+  displays:
+    - 鈴
+    - 錫
+すそ:
+  displays:
+    - 裾
+すだ:
+  displays:
+    - 隅田
+すで:
+  displays:
+    - 素手
+すど:
+  displays:
+    - 簾戸
+    - 須津
+すな:
+  displays:
+    - 砂
+すに:
+  displays:
+    - スニ
+  themas:
+    - 哺乳類
+    - いきもの
+すね:
+  displays:
+    - 脛
+  themas:
+    - 身体
+すば:
+  displays:
+    - スバ
+すぱ:
+  displays:
+    - スパ
+すふ:
+  displays:
+    - 周布
+すべ:
+  displays:
+    - 術
+すま:
+  displays:
+    - スマ
+  themas:
+    - いきもの
+    - 魚介
+すみ:
+  displays:
+    - 隅
+    - 炭
+    - 墨
+  themas:
+    - 色
+すや:
+  displays:
+    - 須屋
+すり:
+  displays:
+    - スリ
+すん:
+  displays:
+    - 寸
+ずい:
+  displays:
+    - 髄
+ずう:
+  displays:
+    - ZOO
+ずが:
+  displays:
+    - 図画
+  themas:
+    - 学校の教科
+ずさ:
+  displays:
+    - ズサ
+ずし:
+  displays:
+    - 図示
+    - 逗子
+ずみ:
+  displays:
+    - ズミ
+  themas:
+    - 植物・キノコ
+ずる:
+  displays:
+    - ズル
+ずれ:
+  displays:
+    - ずれ
+ずん:
+  displays:
+    - ずん
+せい:
+  displays:
+    - 正
+    - 姓
+せが:
+  displays:
+    - セガ
+  themas:
+    - セガ
+せき:
+  displays:
+    - 席
+    - 籍
+    - "関\_"
+せこ:
+  displays:
+    - 勢子
+せさ:
+  displays:
+    - CESA
+せじ:
+  displays:
+    - 世辞
+せた:
+  displays:
+    - セタ
+せち:
+  displays:
+    - 世知
+せつ:
+  displays:
+    - 説
+せと:
+  displays:
+    - 瀬戸
+    - セト
+  themas:
+    - 自然地形
+せな:
+  displays:
+    - セナ
+せば:
+  displays:
+    - 洗馬
+せみ:
+  displays:
+    - 蝉
+    - セミ
+  themas:
+    - いきもの
+せめ:
+  displays:
+    - 攻め
+せや:
+  displays:
+    - 瀬谷
+せり:
+  displays:
+    - 芹
+    - 競り
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+せる:
+  displays:
+    - セル
+せろ:
+  displays:
+    - セロ
+せわ:
+  displays:
+    - 世話
+せん:
+  displays:
+    - 千
+    - 線
+    - 栓
+    - 腺
+  themas:
+    - 身体
+ぜい:
+  displays:
+    - 税
+ぜな:
+  displays:
+    - ゼナ
+ぜに:
+  displays:
+    - 銭
+ぜの:
+  displays:
+    - ゼノ
+  themas:
+    - セガ
+ぜひ:
+  displays:
+    - 是非
+ぜみ:
+  displays:
+    - ゼミ
+ぜり:
+  displays:
+    - ゼリ
+  themas:
+    - セガ
+ぜろ:
+  displays:
+    - '0'
+ぜん:
+  displays:
+    - 善
+    - 膳
+    - 禅
+そい:
+  displays:
+    - ソイ
+  themas:
+    - いきもの
+    - 魚介
+そう:
+  displays:
+    - 僧
+    - 爽
+    - 筝
+そが:
+  displays:
+    - 蘇我
+そく:
+  displays:
+    - 即
+そこ:
+  displays:
+    - 底
+そご:
+  displays:
+    - 齟齬
+そし:
+  displays:
+    - 阻止
+    - 素子
+そじ:
+  displays:
+    - 素地
+そそ:
+  displays:
+    - 楚々
+そち:
+  displays:
+    - 措置
+そつ:
+  displays:
+    - ソツ
+そで:
+  displays:
+    - 袖
+そと:
+  displays:
+    - 外
+そね:
+  displays:
+    - 曽根
+その:
+  displays:
+    - 園
+そば:
+  displays:
+    - 蕎麦
+  themas:
+    - 植物・キノコ
+そひ:
+  displays:
+    - 蘇飛
+  themas:
+    - 三国志
+そふ:
+  displays:
+    - 祖父
+そぼ:
+  displays:
+    - 祖母
+そめ:
+  displays:
+    - 染め
+そも:
+  displays:
+    - 祖茂
+  themas:
+    - 三国志
+そや:
+  displays:
+    - 粗野
+そゆ:
+  displays:
+    - 酥油
+そら:
+  displays:
+    - 空
+そり:
+  displays:
+    - 橇
+    - ソリ
+そろ:
+  displays:
+    - ソロ
+そん:
+  displays:
+    - 損
+ぞあ:
+  displays:
+    - ZOA
+ぞう:
+  displays:
+    - ゾウ
+    - 象
+  themas:
+    - 哺乳類
+    - いきもの
+ぞの:
+  displays:
+    - ゾノ
+ぞろ:
+  displays:
+    - ゾロ
+たい:
+  displays:
+    - 鯛
+    - タイ
+    - タイ王国
+  themas:
+    - いきもの
+    - 魚介
+たう:
+  displays:
+    - 多雨
+たか:
+  displays:
+    - 鷹
+    - 高
+  themas:
+    - いきもの
+    - 鳥
+たが:
+  displays:
+    - 箍
+たき:
+  displays:
+    - 滝
+  themas:
+    - 自然地形
+たぎ:
+  displays:
+    - 多義
+    - 田儀
+たく:
+  displays:
+    - 卓
+    - 多久
+たぐ:
+  displays:
+    - タグ
+たけ:
+  displays:
+    - 竹
+  themas:
+    - 植物・キノコ
+たこ:
+  displays:
+    - 蛸
+    - 凧
+    - タコ
+    - 田子
+  themas:
+    - いきもの
+    - 魚介
+たし:
+  displays:
+    - 他紙
+たじ:
+  displays:
+    - 多事
+たた:
+  displays:
+    - 多々
+ただ:
+  displays:
+    - 只
+    - 多田
+たち:
+  displays:
+    - 太刀
+たつ:
+  displays:
+    - 辰
+たづ:
+  displays:
+    - 田津
+たて:
+  displays:
+    - 縦
+    - 盾
+    - 楯
+    - 殺陣
+たで:
+  displays:
+    - タデ
+    - 蓼
+  themas:
+    - 植物・キノコ
+たど:
+  displays:
+    - 多度
+たな:
+  displays:
+    - 棚
+    - 田奈
+たに:
+  displays:
+    - 谷
+  themas:
+    - 自然地形
+たね:
+  displays:
+    - 種
+たの:
+  displays:
+    - 田野
+たは:
+  displays:
+    - 他派
+たば:
+  displays:
+    - 束
+たび:
+  displays:
+    - 旅
+    - 足袋
+たふ:
+  displays:
+    - タフ
+たぶ:
+  displays:
+    - タブ
+たま:
+  displays:
+    - 玉
+    - 弾
+    - 球
+    - たま
+    - 多磨
+    - 多摩ヒデキ【コラボ】
+たみ:
+  displays:
+    - 民
+ため:
+  displays:
+    - タメ
+たも:
+  displays:
+    - タモ
+  themas:
+    - 植物・キノコ
+たや:
+  displays:
+    - 多屋
+たら:
+  displays:
+    - タラ
+    - 鱈
+    - 多良
+  themas:
+    - いきもの
+    - 植物・キノコ
+    - 魚介
+たる:
+  displays:
+    - 樽
+たれ:
+  displays:
+    - たれ
+    - タレ
+たん:
+  displays:
+    - 痰
+    - タン
+  themas:
+    - 色
+だい:
+  displays:
+    - 題
+    - 台
+だう:
+  displays:
+    - ダウ
+だき:
+  displays:
+    - 唾棄
+だし:
+  displays:
+    - 出汁
+    - 山車
+だだ:
+  displays:
+    - 駄々
+だち:
+  displays:
+    - ダチ
+だつ:
+  displays:
+    - ダツ
+  themas:
+    - いきもの
+    - 魚介
+だて:
+  displays:
+    - 伊達
+だに:
+  displays:
+    - ダニ
+  themas:
+    - いきもの
+だぬ:
+  displays:
+    - ダヌ
+だは:
+  displays:
+    - 打破
+だば:
+  displays:
+    - 駄馬
+だび:
+  displays:
+    - 荼毘
+だぶ:
+  displays:
+    - ダブ
+  themas:
+    - いきもの
+    - 魚介
+だほ:
+  displays:
+    - 拿捕
+だま:
+  displays:
+    - だま
+だむ:
+  displays:
+    - ダム
+だめ:
+  displays:
+    - 駄目
+だら:
+  displays:
+    - ダラ
+だり:
+  displays:
+    - ダリ
+だん:
+  displays:
+    - 段
+    - 団
+ちあ:
+  displays:
+    - チア
+    - ちあ
+  themas:
+    - 植物・キノコ
+ちい:
+  displays:
+    - 地位
+ちえ:
+  displays:
+    - 知恵
+ちか:
+  displays:
+    - チカ
+    - 地下
+  themas:
+    - いきもの
+    - 魚介
+ちき:
+  displays:
+    - 知己
+    - 地気
+ちく:
+  displays:
+    - 地区
+ちげ:
+  displays:
+    - チゲ
+ちご:
+  displays:
+    - 稚児
+ちし:
+  displays:
+    - 致死
+    - 致事
+ちじ:
+  displays:
+    - 知事
+    - 千路
+ちず:
+  displays:
+    - 地図
+    - 智頭
+ちそ:
+  displays:
+    - 地租
+ちち:
+  displays:
+    - 父
+    - チチ
+ちつ:
+  displays:
+    - 膣
+  themas:
+    - 身体
+ちぬ:
+  displays:
+    - チヌ
+    - 智奴神
+  themas:
+    - いきもの
+    - 魚介
+ちの:
+  displays:
+    - 茅野
+ちば:
+  displays:
+    - 千葉
+ちび:
+  displays:
+    - ちび
+ちぶ:
+  displays:
+    - 恥部
+ちべ:
+  displays:
+    - チベ
+ちほ:
+  displays:
+    - 地歩
+ちみ:
+  displays:
+    - 魑魅
+ちゃ:
+  displays:
+    - 茶
+  themas:
+    - 植物・キノコ
+ちゆ:
+  displays:
+    - 治癒
+ちょ:
+  displays:
+    - 著
+ちよ:
+  displays:
+    - 千代
+ちり:
+  displays:
+    - 地理
+    - 塵
+    - チリ
+    - チリ共和国
+  themas:
+    - 学校の教科
+ちわ:
+  displays:
+    - 痴話
+    - 知和
+ちん:
+  displays:
+    - 狆
+  themas:
+    - 哺乳類
+    - いきもの
+ぢば:
+  displays:
+    - 地場
+つい:
+  displays:
+    - 対
+つう:
+  displays:
+    - ツー（2）
+    - 通
+つえ:
+  displays:
+    - 杖
+つか:
+  displays:
+    - 塚
+    - 柄
+つが:
+  displays:
+    - 栂
+    - 都賀
+  themas:
+    - 植物・キノコ
+つき:
+  displays:
+    - 月
+  themas:
+    - 星
+つぎ:
+  displays:
+    - 次
+つけ:
+  displays:
+    - ツケ
+つげ:
+  displays:
+    - ツゲ
+    - "柘植\_"
+  themas:
+    - 植物・キノコ
+つこ:
+  displays:
+    - 津古
+つじ:
+  displays:
+    - 辻
+つた:
+  displays:
+    - ツタ
+    - 蔦
+  themas:
+    - 植物・キノコ
+つち:
+  displays:
+    - 土
+つつ:
+  displays:
+    - 筒
+つて:
+  displays:
+    - 伝手
+つど:
+  displays:
+    - 都度
+つな:
+  displays:
+    - 綱
+つね:
+  displays:
+    - 常
+つの:
+  displays:
+    - 角
+    - 都農
+つば:
+  displays:
+    - 唾
+    - 鍔
+つぶ:
+  displays:
+    - 粒
+    - ツブ
+  themas:
+    - 魚介
+つぼ:
+  displays:
+    - 壷
+    - 壺
+    - 坪
+つま:
+  displays:
+    - 妻
+つみ:
+  displays:
+    - ツミ
+    - 罪
+  themas:
+    - いきもの
+    - 鳥
+つめ:
+  displays:
+    - 爪
+  themas:
+    - 身体
+つも:
+  displays:
+    - ツモ
+つや:
+  displays:
+    - 艶
+    - 津谷
+つゆ:
+  displays:
+    - 梅雨
+    - 露
+  themas:
+    - 天気
+つら:
+  displays:
+    - 面
+つり:
+  displays:
+    - 釣り
+つる:
+  displays:
+    - 鶴
+    - 蔓
+  themas:
+    - いきもの
+    - 鳥
+つれ:
+  displays:
+    - 連れ
+づけ:
+  displays:
+    - ヅケ
+づだ:
+  displays:
+    - ヅダ
+づら:
+  displays:
+    - ヅラ
+てい:
+  displays:
+    - 体
+    - 丁
+てき:
+  displays:
+    - 敵
+てぐ:
+  displays:
+    - 大邱
+てこ:
+  displays:
+    - 梃子
+てつ:
+  displays:
+    - 鉄
+てば:
+  displays:
+    - 手羽
+てま:
+  displays:
+    - 手間
+てら:
+  displays:
+    - 寺
+てり:
+  displays:
+    - 照り
+てる:
+  displays:
+    - テル
+てれ:
+  displays:
+    - 照れ
+てろ:
+  displays:
+    - テロ
+てん:
+  displays:
+    - テン
+    - テン（10）
+    - 天
+    - 点
+    - 貂
+  themas:
+    - 哺乳類
+    - いきもの
+でか:
+  displays:
+    - デカ
+でき:
+  displays:
+    - 出来
+でく:
+  displays:
+    - 木偶
+でこ:
+  displays:
+    - デコ
+でし:
+  displays:
+    - 弟子
+です:
+  displays:
+    - デス
+でと:
+  displays:
+    - 出戸
+でば:
+  displays:
+    - 出刃
+でぶ:
+  displays:
+    - デブ
+でま:
+  displays:
+    - デマ
+でめ:
+  displays:
+    - 出目
+でも:
+  displays:
+    - デモ
+でり:
+  displays:
+    - デリ
+でる:
+  displays:
+    - DELL
+とい:
+  displays:
+    - 問い
+とう:
+  displays:
+    - 塔
+    - 島
+  themas:
+    - 自然地形
+とお:
+  displays:
+    - 十
+とか:
+  displays:
+    - 都下
+とが:
+  displays:
+    - 咎
+とき:
+  displays:
+    - トキ
+    - 時
+    - 朱鷺
+    - とき(新幹線)
+  themas:
+    - いきもの
+    - 鳥
+    - セガ
+とく:
+  displays:
+    - 得
+    - 徳
+とけ:
+  displays:
+    - 土気
+とげ:
+  displays:
+    - 棘
+    - トゲ
+とこ:
+  displays:
+    - 床
+とさ:
+  displays:
+    - 土佐
+とし:
+  displays:
+    - 都市
+    - 年
+    - トシ
+とじ:
+  displays:
+    - 綴じ
+とす:
+  displays:
+    - トス
+    - 鳥栖
+とそ:
+  displays:
+    - 唐湊
+    - 屠蘇
+とだ:
+  displays:
+    - 戸田
+とち:
+  displays:
+    - 土地
+とつ:
+  displays:
+    - 凸
+とで:
+  displays:
+    - 戸手
+とと:
+  displays:
+    - toto
+とど:
+  displays:
+    - トド
+  themas:
+    - 哺乳類
+    - いきもの
+との:
+  displays:
+    - 殿
+とば:
+  displays:
+    - 賭場
+    - 鳥羽
+とび:
+  displays:
+    - トビ
+    - 鳶
+  themas:
+    - いきもの
+    - 鳥
+とぴ:
+  displays:
+    - トピ
+  themas:
+    - 哺乳類
+    - いきもの
+とふ:
+  displays:
+    - 塗布
+とべ:
+  displays:
+    - 戸部
+とほ:
+  displays:
+    - 徒歩
+とみ:
+  displays:
+    - 富
+とめ:
+  displays:
+    - 止め
+とも:
+  displays:
+    - 友
+    - 供
+    - 伴
+とら:
+  displays:
+    - トラ
+    - 虎
+    - 寅
+  themas:
+    - 哺乳類
+    - いきもの
+とり:
+  displays:
+    - 鳥
+    - 酉
+  themas:
+    - いきもの
+    - 鳥
+とれ:
+  displays:
+    - トレ
+とろ:
+  displays:
+    - トロ
+    - 吐露
+とわ:
+  displays:
+    - 永久
+とん:
+  displays:
+    - トン
+どあ:
+  displays:
+    - ドア
+どい:
+  displays:
+    - 土居
+どう:
+  displays:
+    - 銅
+    - 胴
+  themas:
+    - 身体
+どか:
+  displays:
+    - 怒火
+どが:
+  displays:
+    - ドガ
+どき:
+  displays:
+    - 土器
+    - 怒気
+どぎ:
+  displays:
+    - ドギ
+  themas:
+    - いきもの
+    - 魚介
+どく:
+  displays:
+    - 毒
+どじ:
+  displays:
+    - ドジ
+どす:
+  displays:
+    - ドス
+どて:
+  displays:
+    - 土手
+どぶ:
+  displays:
+    - 溝
+どべ:
+  displays:
+    - ドベ
+どま:
+  displays:
+    - 土間
+どむ:
+  displays:
+    - ドム
+どよ:
+  displays:
+    - 社預
+  themas:
+    - 三国志
+どら:
+  displays:
+    - 銅鑼
+どる:
+  displays:
+    - ドル
+どろ:
+  displays:
+    - 泥
+どん:
+  displays:
+    - 丼
+なえ:
+  displays:
+    - 苗
+なか:
+  displays:
+    - 中
+    - 仲
+    - 那加
+なき:
+  displays:
+    - 泣き
+なぎ:
+  displays:
+    - 椥
+    - 凪
+    - ナギ
+    - 那岐
+    - NAGI
+  themas:
+    - 植物・キノコ
+    - 天気
+    - セガ
+なげ:
+  displays:
+    - 投げ
+なご:
+  displays:
+    - 奈古
+なさ:
+  displays:
+    - NASA
+なし:
+  displays:
+    - 梨
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+なす:
+  displays:
+    - ナス
+    - 茄子
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+なぞ:
+  displays:
+    - 謎
+なた:
+  displays:
+    - 鉈
+    - 哪吒
+なだ:
+  displays:
+    - 灘
+  themas:
+    - 自然地形
+なち:
+  displays:
+    - 那智
+なつ:
+  displays:
+    - 夏
+なて:
+  displays:
+    - 名手
+なな:
+  displays:
+    - '7'
+    - NANA
+なの:
+  displays:
+    - ナノ
+なは:
+  displays:
+    - 那覇
+なび:
+  displays:
+    - ナビ
+  themas:
+    - セガ
+なべ:
+  displays:
+    - 鍋
+なま:
+  displays:
+    - 生
+なみ:
+  displays:
+    - 波
+    - 並
+    - ナミ
+なむ:
+  displays:
+    - 南無
+なや:
+  displays:
+    - 納屋
+なら:
+  displays:
+    - ナラ
+    - 奈良
+    - 楢
+  themas:
+    - 植物・キノコ
+なれ:
+  displays:
+    - 慣れ
+なわ:
+  displays:
+    - 縄
+    - 名和
+なん:
+  displays:
+    - ナン
+にい:
+  displays:
+    - ニー
+    - 新井
+  themas:
+    - 身体
+にえ:
+  displays:
+    - 贄
+にき:
+  displays:
+    - 仁木
+にく:
+  displays:
+    - 肉
+にげ:
+  displays:
+    - 逃げ
+にこ:
+  displays:
+    - 二胡
+にし:
+  displays:
+    - 西
+にじ:
+  displays:
+    - 虹
+  themas:
+    - 天気
+にす:
+  displays:
+    - ニス
+にせ:
+  displays:
+    - 偽
+にち:
+  displays:
+    - 日
+にふ:
+  displays:
+    - 二歩
+にぶ:
+  displays:
+    - 丹生
+にべ:
+  displays:
+    - ニベ
+  themas:
+    - いきもの
+    - 魚介
+にほ:
+  displays:
+    - 仁保
+にま:
+  displays:
+    - 仁万
+にも:
+  displays:
+    - ニモ
+にら:
+  displays:
+    - ニラ
+    - 韮
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+にれ:
+  displays:
+    - ニレ
+    - 楡
+  themas:
+    - 植物・キノコ
+にわ:
+  displays:
+    - 庭
+にん:
+  displays:
+    - 任
+ぬう:
+  displays:
+    - ヌー
+  themas:
+    - 哺乳類
+    - いきもの
+ぬえ:
+  displays:
+    - 鵺
+ぬか:
+  displays:
+    - 糠
+ぬき:
+  displays:
+    - ヌキ
+ぬけ:
+  displays:
+    - 抜け
+ぬさ:
+  displays:
+    - 幣
+ぬし:
+  displays:
+    - 主
+ぬた:
+  displays:
+    - ぬた
+ぬと:
+  displays:
+    - ヌト
+ぬの:
+  displays:
+    - 布
+ぬま:
+  displays:
+    - 沼
+  themas:
+    - 自然地形
+ぬみ:
+  displays:
+    - 要害
+ぬり:
+  displays:
+    - 塗り
+ぬん:
+  displays:
+    - ヌン
+ねい:
+  displays:
+    - ネイ
+  themas:
+    - セガ
+ねう:
+  displays:
+    - 根雨
+ねお:
+  displays:
+    - ネオ
+ねが:
+  displays:
+    - ネガ
+ねぎ:
+  displays:
+    - ネギ
+    - 葱
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+ねこ:
+  displays:
+    - ネコ
+    - 猫
+  themas:
+    - 哺乳類
+    - いきもの
+ねじ:
+  displays:
+    - 螺子
+ねず:
+  displays:
+    - 杜松
+  themas:
+    - 植物・キノコ
+ねそ:
+  displays:
+    - ネソ
+  themas:
+    - 星
+ねた:
+  displays:
+    - ネタ
+ねち:
+  displays:
+    - 根知
+ねつ:
+  displays:
+    - 熱
+ねづ:
+  displays:
+    - 根津
+ねね:
+  displays:
+    - ねね
+ねま:
+  displays:
+    - 寝間
+ねも:
+  displays:
+    - ネモ
+ねや:
+  displays:
+    - 寝屋
+ねり:
+  displays:
+    - 練り
+ねん:
+  displays:
+    - 念
+    - 年
+のあ:
+  displays:
+    - ノア
+    - NOAR
+のう:
+  displays:
+    - 脳
+  themas:
+    - 身体
+のえ:
+  displays:
+    - 野江
+のき:
+  displays:
+    - 軒
+のぎ:
+  displays:
+    - 芒
+    - 乃木
+のけ:
+  displays:
+    - 野芥
+のこ:
+  displays:
+    - 鋸
+のし:
+  displays:
+    - 熨斗
+    - 野志
+のせ:
+  displays:
+    - 能瀬
+のだ:
+  displays:
+    - 野田
+のち:
+  displays:
+    - 後
+    - 野馳
+のと:
+  displays:
+    - 能登
+のど:
+  displays:
+    - 喉
+のば:
+  displays:
+    - NOVA
+のび:
+  displays:
+    - 伸び
+のぶ:
+  displays:
+    - ノブ
+のべ:
+  displays:
+    - 延べ
+のま:
+  displays:
+    - 野間
+のみ:
+  displays:
+    - 蚤
+    - ノミ
+  themas:
+    - いきもの
+のや:
+  displays:
+    - 野矢
+のゆ:
+  displays:
+    - 野湯
+のら:
+  displays:
+    - 野良
+のり:
+  displays:
+    - 糊
+    - 海苔
+    - のり
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+のろ:
+  displays:
+    - ノロ
+  themas:
+    - 哺乳類
+    - いきもの
+のん:
+  displays:
+    - のん
+はい:
+  displays:
+    - 肺
+    - 灰
+  themas:
+    - 身体
+    - 色
+はえ:
+  displays:
+    - ハエ
+    - 蝿
+  themas:
+    - いきもの
+    - 魚介
+はか:
+  displays:
+    - 墓
+はき:
+  displays:
+    - 覇気
+    - 破棄
+    - 葉木
+はぎ:
+  displays:
+    - 萩
+  themas:
+    - 植物・キノコ
+はく:
+  displays:
+    - 箔
+はぐ:
+  displays:
+    - ハグ
+はけ:
+  displays:
+    - 刷毛
+はげ:
+  displays:
+    - 禿
+    - 半家
+はこ:
+  displays:
+    - 箱
+はご:
+  displays:
+    - 羽子
+はさ:
+  displays:
+    - 稲架
+はざ:
+  displays:
+    - 稲架
+はし:
+  displays:
+    - 橋
+    - 箸
+    - 波子
+はじ:
+  displays:
+    - 恥
+    - 土師
+はす:
+  displays:
+    - 蓮
+    - ハス
+  themas:
+    - 野菜・果物
+    - いきもの
+    - 植物・キノコ
+    - 魚介
+はず:
+  displays:
+    - 筈
+    - ハズ
+  themas:
+    - 植物・キノコ
+はせ:
+  displays:
+    - 長谷
+はぜ:
+  displays:
+    - 沙魚
+    - 波瀬
+  themas:
+    - 魚介
+はた:
+  displays:
+    - 旗
+    - 葉多
+はだ:
+  displays:
+    - 肌
+  themas:
+    - 身体
+はち:
+  displays:
+    - '8'
+    - ハチ
+    - 蜂
+    - 鉢
+  themas:
+    - いきもの
+    - 魚介
+はつ:
+  displays:
+    - ハツ
+    - 初
+はて:
+  displays:
+    - 果て
+はで:
+  displays:
+    - 派手
+はと:
+  displays:
+    - 鳩
+  themas:
+    - いきもの
+    - 鳥
+はな:
+  displays:
+    - 花
+    - 鼻
+  themas:
+    - 植物・キノコ
+    - 身体
+はね:
+  displays:
+    - 羽
+    - 波根
+はは:
+  displays:
+    - 母
+はば:
+  displays:
+    - 幅
+    - 羽場
+はぴ:
+  displays:
+    - ハピ
+はふ:
+  displays:
+    - 破風
+はぶ:
+  displays:
+    - ハブ
+はま:
+  displays:
+    - 浜
+    - 破魔
+  themas:
+    - 自然地形
+はみ:
+  displays:
+    - 馬銜
+はむ:
+  displays:
+    - ハム
+  themas:
+    - いきもの
+    - 魚介
+はめ:
+  displays:
+    - 羽目
+はも:
+  displays:
+    - ハモ
+    - 鱧
+  themas:
+    - いきもの
+    - 魚介
+はや:
+  displays:
+    - ハヤ
+    - 鮠
+    - 甲矢
+    - 芳養
+  themas:
+    - いきもの
+    - 魚介
+はら:
+  displays:
+    - 腹
+    - 原
+  themas:
+    - 身体
+はり:
+  displays:
+    - 針
+    - 鍼
+    - 玻璃
+    - 梁
+はる:
+  displays:
+    - 春
+    - 波瑠
+はれ:
+  displays:
+    - 晴れ
+  themas:
+    - 天気
+はろ:
+  displays:
+    - ハロ
+はん:
+  displays:
+    - 判
+    - 班
+ばあ:
+  displays:
+    - バー
+ばい:
+  displays:
+    - 倍
+    - バイ
+  themas:
+    - 魚介
+ばう:
+  displays:
+    - バウ
+ばか:
+  displays:
+    - 馬鹿
+ばが:
+  displays:
+    - バガ
+ばき:
+  displays:
+    - バキ
+ばぎ:
+  displays:
+    - バギ
+ばく:
+  displays:
+    - バク
+    - 獏
+  themas:
+    - 哺乳類
+    - いきもの
+ばぐ:
+  displays:
+    - バグ
+ばす:
+  displays:
+    - バス
+  themas:
+    - いきもの
+    - 魚介
+ばず:
+  displays:
+    - バズ
+    - B.U.Z.
+  themas:
+    - セガ
+ばち:
+  displays:
+    - バチ
+    - 罰
+    - 撥
+  themas:
+    - いきもの
+    - 魚介
+ばつ:
+  displays:
+    - 罰
+ばね:
+  displays:
+    - バネ
+ばば:
+  displays:
+    - ババ
+    - 馬場
+    - 婆
+    - ババ(菓子)
+  themas:
+    - いきもの
+    - 魚介
+ばび:
+  displays:
+    - バビ
+ばふ:
+  displays:
+    - バフ
+  themas:
+    - 色
+ばら:
+  displays:
+    - 薔薇
+    - バラ
+  themas:
+    - 植物・キノコ
+ばり:
+  displays:
+    - バリ
+    - 罵詈
+  themas:
+    - いきもの
+    - 魚介
+ばる:
+  displays:
+    - バル
+ばん:
+  displays:
+    - バン
+    - 晩
+    - ヴァン
+    - BAHN
+  themas:
+    - いきもの
+    - 鳥
+    - セガ
+ぱあ:
+  displays:
+    - パー
+ぱい:
+  displays:
+    - パイ
+    - パイ・チェン
+  themas:
+    - セガ
+ぱお:
+  displays:
+    - パオ
+ぱか:
+  displays:
+    - パカ
+  themas:
+    - 哺乳類
+    - いきもの
+ぱぐ:
+  displays:
+    - パグ
+  themas:
+    - 哺乳類
+    - いきもの
+ぱす:
+  displays:
+    - パス
+ぱて:
+  displays:
+    - パテ
+ぱぱ:
+  displays:
+    - パパ
+ぱふ:
+  displays:
+    - パフ
+ぱぶ:
+  displays:
+    - パブ
+ぱり:
+  displays:
+    - パリ
+ぱん:
+  displays:
+    - パン
+  themas:
+    - 星
+ひい:
+  displays:
+    - 非違
+    - 費イ
+  themas:
+    - 三国志
+ひう:
+  displays:
+    - 日宇
+ひえ:
+  displays:
+    - 稗
+    - 冷え
+    - 比延
+  themas:
+    - 植物・キノコ
+ひか:
+  displays:
+    - 皮下
+ひが:
+  displays:
+    - 彼我
+ひき:
+  displays:
+    - 引き
+ひぎ:
+  displays:
+    - 秘技
+    - 秘義
+ひけ:
+  displays:
+    - 引け
+ひげ:
+  displays:
+    - 髭
+  themas:
+    - 身体
+ひご:
+  displays:
+    - 庇護
+    - 肥後
+ひざ:
+  displays:
+    - 膝
+  themas:
+    - 身体
+ひし:
+  displays:
+    - 菱
+    - 皮脂
+    - ヒシ
+    - 費詩
+  themas:
+    - 植物・キノコ
+    - 身体
+    - 三国志
+ひじ:
+  displays:
+    - 肘
+    - 日出
+  themas:
+    - 身体
+ひず:
+  displays:
+    - 氷頭
+ひそ:
+  displays:
+    - 砒素
+ひた:
+  displays:
+    - 日田
+ひだ:
+  displays:
+    - 襞
+    - ひだ
+    - 飛騨
+ひつ:
+  displays:
+    - 櫃
+    - 比津
+ひと:
+  displays:
+    - 人
+  themas:
+    - 哺乳類
+    - いきもの
+ひど:
+  displays:
+    - 比土
+ひな:
+  displays:
+    - 雛
+    - 比奈
+ひの:
+  displays:
+    - 日野
+ひば:
+  displays:
+    - ヒバ
+    - 檜葉
+  themas:
+    - 植物・キノコ
+ひひ:
+  displays:
+    - 狒々
+  themas:
+    - いきもの
+ひび:
+  displays:
+    - ヒビ
+ひふ:
+  displays:
+    - 皮膚
+  themas:
+    - 身体
+ひぶ:
+  displays:
+    - 日歩
+ひま:
+  displays:
+    - 暇
+ひみ:
+  displays:
+    - 氷見
+ひめ:
+  displays:
+    - ヒメ
+    - 姫
+    - 比売大神
+  themas:
+    - いきもの
+    - 魚介
+ひも:
+  displays:
+    - 紐
+ひや:
+  displays:
+    - 火矢
+    - 冷
+ひゆ:
+  displays:
+    - 比喩
+    - ヒユ
+  themas:
+    - 植物・キノコ
+ひら:
+  displays:
+    - 平
+    - 比良
+ひる:
+  displays:
+    - 昼
+ひれ:
+  displays:
+    - 鰭
+  themas:
+    - 身体
+ひろ:
+  displays:
+    - HIRO
+    - 広
+ひわ:
+  displays:
+    - 秘話
+    - 鶸
+    - 日羽
+  themas:
+    - 鳥
+ひん:
+  displays:
+    - 品
+びあ:
+  displays:
+    - ビア
+びい:
+  displays:
+    - Ｂ
+びう:
+  displays:
+    - 微雨
+  themas:
+    - 天気
+びか:
+  displays:
+    - 美化
+びき:
+  displays:
+    - 美姫
+びぎ:
+  displays:
+    - 美技
+びく:
+  displays:
+    - 魚籠
+びざ:
+  displays:
+    - ビザ
+びす:
+  displays:
+    - ビス
+  themas:
+    - セガ
+びた:
+  displays:
+    - 鐚
+びで:
+  displays:
+    - ビデ
+びぶ:
+  displays:
+    - 鼻部
+  themas:
+    - 身体
+びみ:
+  displays:
+    - 美味
+びら:
+  displays:
+    - ビラ
+びり:
+  displays:
+    - ビリ
+びる:
+  displays:
+    - ビル
+びれ:
+  displays:
+    - ヴィレ（WILLE)【コラボ】
+びわ:
+  displays:
+    - ビワ
+    - 琵琶
+    - 琵琶　
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+びん:
+  displays:
+    - 瓶
+ぴあ:
+  displays:
+    - ぴあ
+ぴい:
+  displays:
+    - Ｐ
+    - ピイ
+ぴこ:
+  displays:
+    - ピコ
+  themas:
+    - セガ
+ぴざ:
+  displays:
+    - ピザ
+ぴぱ:
+  displays:
+    - ピパ
+  themas:
+    - いきもの
+ぴる:
+  displays:
+    - ピル
+ぴん:
+  displays:
+    - ピン
+ふい:
+  displays:
+    - 不意
+ふう:
+  displays:
+    - フウ
+    - 封
+  themas:
+    - 植物・キノコ
+ふえ:
+  displays:
+    - 笛
+ふか:
+  displays:
+    - 不可
+    - 孵化
+    - 負荷
+    - 付加
+ふき:
+  displays:
+    - ふき
+    - 蕗
+    - 付記
+    - 富貴
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+ふぎ:
+  displays:
+    - 不義
+    - 付議
+ふく:
+  displays:
+    - 服
+    - 福
+ふぐ:
+  displays:
+    - 河豚
+  themas:
+    - いきもの
+    - 魚介
+ふけ:
+  displays:
+    - 頭垢
+ふご:
+  displays:
+    - 畚
+ふさ:
+  displays:
+    - 房
+    - 布佐
+ふし:
+  displays:
+    - 節
+    - 父子
+    - 不死
+ふじ:
+  displays:
+    - 藤
+    - 不治
+    - 富士
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+ふず:
+  displays:
+    - 付図
+ふせ:
+  displays:
+    - 伏せ
+    - 布施
+ふそ:
+  displays:
+    - 父祖
+ふた:
+  displays:
+    - 蓋
+ふだ:
+  displays:
+    - 札
+    - 布田
+ふち:
+  displays:
+    - 縁
+    - 不知
+    - 淵
+  themas:
+    - 自然地形
+ふで:
+  displays:
+    - 筆
+ふと:
+  displays:
+    - 富戸
+ふな:
+  displays:
+    - 鮒
+  themas:
+    - いきもの
+    - 魚介
+ふね:
+  displays:
+    - 船
+    - 舟
+ふび:
+  displays:
+    - 不備
+ふぼ:
+  displays:
+    - 父母
+ふみ:
+  displays:
+    - 文
+ふや:
+  displays:
+    - 府屋
+ふゆ:
+  displays:
+    - 冬
+ふよ:
+  displays:
+    - 付与
+ふり:
+  displays:
+    - 振り
+    - 不利
+    - フリ
+ふろ:
+  displays:
+    - 風呂
+ふわ:
+  displays:
+    - 不破
+    - 不和
+ふん:
+  displays:
+    - 糞
+    - 分
+ぶい:
+  displays:
+    - 部位
+ぶか:
+  displays:
+    - 部下
+ぶき:
+  displays:
+    - 武器
+ぶぐ:
+  displays:
+    - 武具
+ぶけ:
+  displays:
+    - 武家
+ぶし:
+  displays:
+    - 武士
+    - 仏子
+ぶじ:
+  displays:
+    - 無事
+ぶす:
+  displays:
+    - ブス
+ぶた:
+  displays:
+    - ブタ
+    - 豚
+  themas:
+    - 哺乳類
+    - いきもの
+ぶち:
+  displays:
+    - 斑
+ぶつ:
+  displays:
+    - 物
+ぶな:
+  displays:
+    - ブナ
+    - 山毛欅
+  themas:
+    - 植物・キノコ
+ぶひ:
+  displays:
+    - 部費
+ぶゆ:
+  displays:
+    - 蚋
+    - ブユ
+  themas:
+    - いきもの
+ぶよ:
+  displays:
+    - 蚋
+  themas:
+    - いきもの
+ぶら:
+  displays:
+    - ブラ
+ぶり:
+  displays:
+    - ブリ
+    - 鰤
+  themas:
+    - いきもの
+    - 魚介
+ぶれ:
+  displays:
+    - ブレ
+ぶん:
+  displays:
+    - 文
+ぷう:
+  displays:
+    - プー
+ぷよ:
+  displays:
+    - ぷよ
+  themas:
+    - セガ
+ぷら:
+  displays:
+    - プラ(料理)
+ぷろ:
+  displays:
+    - プロ
+へあ:
+  displays:
+    - ヘア
+へい:
+  displays:
+    - 塀
+    - 兵
+    - 丙
+へき:
+  displays:
+    - 僻
+へご:
+  displays:
+    - ヘゴ
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+へず:
+  displays:
+    - ヘズ
+へそ:
+  displays:
+    - 臍
+    - へそ
+  themas:
+    - 身体
+へた:
+  displays:
+    - 下手
+へど:
+  displays:
+    - 反吐
+    - ヘド
+  themas:
+    - セガ
+へび:
+  displays:
+    - 蛇
+  themas:
+    - いきもの
+へべ:
+  displays:
+    - ヘベ
+へぼ:
+  displays:
+    - へぼ
+へま:
+  displays:
+    - へま
+へみ:
+  displays:
+    - 逸見
+へや:
+  displays:
+    - 部屋
+へら:
+  displays:
+    - へら
+    - ヘラ
+へり:
+  displays:
+    - 縁
+へる:
+  displays:
+    - ヘル
+へん:
+  displays:
+    - 辺
+    - 変
+べあ:
+  displays:
+    - ベア
+べが:
+  displays:
+    - ベガ
+  themas:
+    - 星
+べこ:
+  displays:
+    - べこ
+  themas:
+    - 哺乳類
+べす:
+  displays:
+    - ベス
+  themas:
+    - セガ
+べそ:
+  displays:
+    - べそ
+べた:
+  displays:
+    - ベタ
+  themas:
+    - いきもの
+    - 魚介
+べつ:
+  displays:
+    - 別
+べに:
+  displays:
+    - 紅
+  themas:
+    - 色
+べふ:
+  displays:
+    - 別府
+べら:
+  displays:
+    - ベラ
+  themas:
+    - いきもの
+    - 魚介
+べる:
+  displays:
+    - ベル
+べろ:
+  displays:
+    - べろ
+べん:
+  displays:
+    - 便
+ぺあ:
+  displays:
+    - ペア
+ぺい:
+  displays:
+    - ペイ
+ぺけ:
+  displays:
+    - ペケ
+ぺこ:
+  displays:
+    - ペコ
+ぺそ:
+  displays:
+    - ペソ
+ぺた:
+  displays:
+    - ペタ
+ぺれ:
+  displays:
+    - ペレ
+ぺん:
+  displays:
+    - ペン
+ほう:
+  displays:
+    - 法
+ほお:
+  displays:
+    - 頬
+  themas:
+    - 身体
+ほか:
+  displays:
+    - 外
+    - 他
+ほき:
+  displays:
+    - ホキ
+    - 補記
+  themas:
+    - いきもの
+    - 魚介
+ほこ:
+  displays:
+    - 矛
+ほご:
+  displays:
+    - 保護
+    - 反古
+    - 反故
+ほさ:
+  displays:
+    - 補佐
+ほざ:
+  displays:
+    - 帆座
+  themas:
+    - 星
+ほし:
+  displays:
+    - 星
+ほじ:
+  displays:
+    - 保持
+ほた:
+  displays:
+    - 保田
+ほど:
+  displays:
+    - 程
+ほね:
+  displays:
+    - 骨
+  themas:
+    - 身体
+ほふ:
+  displays:
+    - 保父
+ほほ:
+  displays:
+    - 頬
+  themas:
+    - 身体
+ほぼ:
+  displays:
+    - 保母
+    - 保々
+ほみ:
+  displays:
+    - 保見
+ほめ:
+  displays:
+    - 褒め
+ほや:
+  displays:
+    - 海蛸
+  themas:
+    - いきもの
+    - 魚介
+ほら:
+  displays:
+    - 法螺
+    - 洞
+ほり:
+  displays:
+    - 堀
+    - ホリ
+ほろ:
+  displays:
+    - 幌
+ほん:
+  displays:
+    - 本
+    - ほん
+ぼあ:
+  displays:
+    - ボア
+    - BoA
+ぼう:
+  displays:
+    - 棒
+ぼか:
+  displays:
+    - 簿価
+ぼき:
+  displays:
+    - 簿記
+  themas:
+    - 学校の教科
+ぼく:
+  displays:
+    - 僕
+ぼけ:
+  displays:
+    - ボケ
+  themas:
+    - 植物・キノコ
+ぼご:
+  displays:
+    - 母語
+ぼし:
+  displays:
+    - 母子
+    - 母指
+  themas:
+    - 身体
+ぼす:
+  displays:
+    - ボス
+ぼち:
+  displays:
+    - 墓地
+ぼつ:
+  displays:
+    - 没
+ぼね:
+  displays:
+    - ボネ(菓子)
+ぼば:
+  displays:
+    - 牡馬
+ぼひ:
+  displays:
+    - 墓碑
+ぼむ:
+  displays:
+    - ボム
+ぼや:
+  displays:
+    - 小火
+ぼら:
+  displays:
+    - ボラ
+    - 鰡
+  themas:
+    - いきもの
+    - 魚介
+ぼろ:
+  displays:
+    - 襤褸
+ぼん:
+  displays:
+    - 盆
+    - ボン
+ぽい:
+  displays:
+    - ポイ
+ぽか:
+  displays:
+    - ポカ
+ぽき:
+  displays:
+    - ポキ(料理)
+ぽす:
+  displays:
+    - POS
+ぽぽ:
+  displays:
+    - ポポ
+ぽろ:
+  displays:
+    - ポロ
+ぽん:
+  displays:
+    - PONG
+まい:
+  displays:
+    - 舞
+まう:
+  displays:
+    - マウ
+まえ:
+  displays:
+    - 前
+まか:
+  displays:
+    - マカ
+  themas:
+    - 植物・キノコ
+まき:
+  displays:
+    - 薪
+    - マキ
+    - 牧
+  themas:
+    - 植物・キノコ
+    - セガ
+まぎ:
+  displays:
+    - マギ
+    - マギ【コラボ】
+まく:
+  displays:
+    - 幕
+    - 膜
+まぐ:
+  displays:
+    - マグ
+まけ:
+  displays:
+    - 負け
+まげ:
+  displays:
+    - 髷
+まご:
+  displays:
+    - 孫
+    - 馬子
+まし:
+  displays:
+    - 増し
+    - 麻紙
+まじ:
+  displays:
+    - 馬路
+ます:
+  displays:
+    - 枡
+    - 升
+    - 鱒
+    - マス
+  themas:
+    - いきもの
+    - 魚介
+まそ:
+  displays:
+    - 媽祖
+まぞ:
+  displays:
+    - マゾ
+また:
+  displays:
+    - 股
+  themas:
+    - 身体
+まだ:
+  displays:
+    - 馬田
+まち:
+  displays:
+    - 街
+    - 町
+まつ:
+  displays:
+    - 松
+    - まつ
+  themas:
+    - 植物・キノコ
+まと:
+  displays:
+    - 的
+まど:
+  displays:
+    - 窓
+まな:
+  displays:
+    - 真名
+まね:
+  displays:
+    - 真似
+まひ:
+  displays:
+    - 麻痺
+まぶ:
+  displays:
+    - マブ
+  themas:
+    - 星
+まほ:
+  displays:
+    - 真帆
+まま:
+  displays:
+    - ママ
+まみ:
+  displays:
+    - 猯
+まめ:
+  displays:
+    - 豆
+  themas:
+    - 植物・キノコ
+まや:
+  displays:
+    - マヤ
+    - 伊吹マヤ【コラボ】
+まゆ:
+  displays:
+    - 眉
+    - 繭
+  themas:
+    - 身体
+まり:
+  displays:
+    - マリ
+    - 鞠
+    - マリ共和国
+    - 真希波・マリ・イラストリアス【コラボ】
+まる:
+  displays:
+    - 丸
+まれ:
+  displays:
+    - 稀
+    - マレ
+    - まれ
+まろ:
+  displays:
+    - 麿
+まん:
+  displays:
+    - 万
+    - 満
+みい:
+  displays:
+    - 御井
+みう:
+  displays:
+    - miu
+みえ:
+  displays:
+    - 三重
+    - 見栄
+    - 三会
+みき:
+  displays:
+    - 幹
+    - 神酒
+    - 三木
+  themas:
+    - 植物・キノコ
+みぎ:
+  displays:
+    - 右
+みけ:
+  displays:
+    - 三毛
+みこ:
+  displays:
+    - 巫女
+    - 神子
+みさ:
+  displays:
+    - ミサ
+みす:
+  displays:
+    - ミス
+みず:
+  displays:
+    - 水
+みせ:
+  displays:
+    - 店
+みそ:
+  displays:
+    - 味噌
+みぞ:
+  displays:
+    - 溝
+みた:
+  displays:
+    - 三田
+みだ:
+  displays:
+    - 箕田
+みち:
+  displays:
+    - 道
+    - 未知
+みつ:
+  displays:
+    - 蜜
+    - 三津
+みと:
+  displays:
+    - 水戸
+みに:
+  displays:
+    - ミニ
+みね:
+  displays:
+    - 峰
+    - 美祢
+みの:
+  displays:
+    - 蓑
+    - みの
+    - 美濃
+みぶ:
+  displays:
+    - 壬生
+みみ:
+  displays:
+    - 耳
+  themas:
+    - 身体
+みめ:
+  displays:
+    - 見目
+みや:
+  displays:
+    - 宮
+みよ:
+  displays:
+    - 御代
+みり:
+  displays:
+    - ミリ
+みる:
+  displays:
+    - ミル
+  themas:
+    - 植物・キノコ
+みろ:
+  displays:
+    - MILO
+みわ:
+  displays:
+    - 三輪
+    - miwa
+むい:
+  displays:
+    - 無為
+むが:
+  displays:
+    - 無我
+むき:
+  displays:
+    - 向き
+    - 無機
+    - 無期
+むぎ:
+  displays:
+    - 麦
+    - 牟岐
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+むく:
+  displays:
+    - 無垢
+むげ:
+  displays:
+    - 無下
+むこ:
+  displays:
+    - 婿
+    - 武庫
+むさ:
+  displays:
+    - 武佐
+むし:
+  displays:
+    - 虫
+    - 無視
+むじ:
+  displays:
+    - 無地
+むそ:
+  displays:
+    - 六十
+むだ:
+  displays:
+    - 無駄
+    - 六田
+むち:
+  displays:
+    - 鞭
+    - 無恥
+むつ:
+  displays:
+    - ムツ
+    - 陸奥
+  themas:
+    - いきもの
+    - 魚介
+むて:
+  displays:
+    - 無手
+むと:
+  displays:
+    - ムト
+むに:
+  displays:
+    - 無二
+むね:
+  displays:
+    - 胸
+  themas:
+    - 身体
+むひ:
+  displays:
+    - 無比
+むべ:
+  displays:
+    - ムベ
+  themas:
+    - 植物・キノコ
+むま:
+  displays:
+    - 夢魔
+むみ:
+  displays:
+    - 無味
+むや:
+  displays:
+    - 撫養
+むら:
+  displays:
+    - 村
+むり:
+  displays:
+    - 無理
+むれ:
+  displays:
+    - 群れ
+むろ:
+  displays:
+    - 室
+めい:
+  displays:
+    - 姪
+めか:
+  displays:
+    - メカ
+めが:
+  displays:
+    - メガ
+    - 妻鹿
+めぎ:
+  displays:
+    - 雌木
+  themas:
+    - 植物・キノコ
+めさ:
+  displays:
+    - メサ
+めし:
+  displays:
+    - 飯
+めじ:
+  displays:
+    - メジ
+    - 目地
+  themas:
+    - 魚介
+    - いきもの
+めす:
+  displays:
+    - 雌
+めず:
+  displays:
+    - 馬頭
+めそ:
+  displays:
+    - メソ
+  themas:
+    - いきもの
+    - 魚介
+めた:
+  displays:
+    - メタ
+めて:
+  displays:
+    - 馬手
+めで:
+  displays:
+    - 目出
+めど:
+  displays:
+    - 目処
+めな:
+  displays:
+    - 目名
+めも:
+  displays:
+    - メモ
+めら:
+  displays:
+    - メラ
+めろ:
+  displays:
+    - メロ
+  themas:
+    - いきもの
+    - 魚介
+めん:
+  displays:
+    - 綿
+    - 麺
+    - 面
+もあ:
+  displays:
+    - モア
+  themas:
+    - 鳥
+    - いきもの
+もう:
+  displays:
+    - モウ
+もえ:
+  displays:
+    - 萌
+もか:
+  displays:
+    - モカ
+もぎ:
+  displays:
+    - 模擬
+もこ:
+  displays:
+    - 模糊
+    - モコ
+もさ:
+  displays:
+    - 猛者
+もし:
+  displays:
+    - 模試
+もじ:
+  displays:
+    - 文字
+    - 門司
+もす:
+  displays:
+    - モス
+もず:
+  displays:
+    - モズ
+    - 百舌
+    - 百舌鳥
+  themas:
+    - いきもの
+もち:
+  displays:
+    - 餅
+もつ:
+  displays:
+    - モツ
+もと:
+  displays:
+    - 元
+    - 素
+    - モト
+もな:
+  displays:
+    - モナ
+  themas:
+    - セガ
+もね:
+  displays:
+    - モネ
+もの:
+  displays:
+    - 物
+    - MONO
+もば:
+  displays:
+    - 藻場
+  themas:
+    - 自然地形
+もぶ:
+  displays:
+    - モブ
+もぼ:
+  displays:
+    - MOBO
+  themas:
+    - セガ
+もみ:
+  displays:
+    - モミ
+    - 樅
+  themas:
+    - 植物・キノコ
+もも:
+  displays:
+    - 桃
+    - 腿
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+    - 身体
+もや:
+  displays:
+    - 靄
+  themas:
+    - 天気
+もり:
+  displays:
+    - 森
+  themas:
+    - 自然地形
+もる:
+  displays:
+    - モル（単位）
+もれ:
+  displays:
+    - 漏れ
+もろ:
+  displays:
+    - モロ
+    - 毛呂
+  themas:
+    - いきもの
+    - 魚介
+もん:
+  displays:
+    - 門
+    - 紋
+やえ:
+  displays:
+    - 八重
+やお:
+  displays:
+    - "八尾\_"
+やか:
+  displays:
+    - 八家
+やが:
+  displays:
+    - 夜蛾
+    - 矢賀
+  themas:
+    - いきもの
+やき:
+  displays:
+    - 焼き
+    - 夜気
+やぎ:
+  displays:
+    - ヤギ
+    - 山羊
+    - 八木
+  themas:
+    - 哺乳類
+    - いきもの
+やく:
+  displays:
+    - ヤク
+    - 厄
+    - 役
+  themas:
+    - 哺乳類
+    - いきもの
+やけ:
+  displays:
+    - 自棄
+やこ:
+  displays:
+    - 野狐
+やご:
+  displays:
+    - ヤゴ
+  themas:
+    - いきもの
+やざ:
+  displays:
+    - 矢座
+  themas:
+    - 星
+やし:
+  displays:
+    - ヤシ
+    - 椰子
+  themas:
+    - 植物・キノコ
+やじ:
+  displays:
+    - 野次
+やす:
+  displays:
+    - 夜須
+やせ:
+  displays:
+    - 痩せ
+やそ:
+  displays:
+    - 八十
+やた:
+  displays:
+    - 八咫
+    - 矢田
+やだ:
+  displays:
+    - 矢田
+やち:
+  displays:
+    - 八千
+やつ:
+  displays:
+    - 奴
+    - 谷津
+やと:
+  displays:
+    - 野兎
+やど:
+  displays:
+    - 宿
+やに:
+  displays:
+    - ヤニ
+やね:
+  displays:
+    - 屋根
+    - 屋根神
+やの:
+  displays:
+    - 矢野
+やひ:
+  displays:
+    - 野卑
+やぶ:
+  displays:
+    - 藪
+    - 養父
+やべ:
+  displays:
+    - 矢部
+やほ:
+  displays:
+    - 谷保
+やぼ:
+  displays:
+    - 野暮
+やま:
+  displays:
+    - 山
+    - ヤマ
+  themas:
+    - 自然地形
+    - セガ
+やみ:
+  displays:
+    - 闇
+やや:
+  displays:
+    - 稚
+やゆ:
+  displays:
+    - 揶揄
+やり:
+  displays:
+    - 槍
+やわ:
+  displays:
+    - 夜話
+    - ヤワ
+ゆい:
+  displays:
+    - 碇ユイ【コラボ】
+ゆう:
+  displays:
+    - YOU
+    - 由宇
+ゆえ:
+  displays:
+    - 故
+    - 湯江
+ゆか:
+  displays:
+    - 床
+ゆき:
+  displays:
+    - 雪
+    - YUKI
+    - 由岐
+  themas:
+    - 天気
+ゆぐ:
+  displays:
+    - 湯具
+ゆげ:
+  displays:
+    - 湯気
+    - 弓削
+ゆざ:
+  displays:
+    - 遊佐
+ゆし:
+  displays:
+    - 油脂
+ゆず:
+  displays:
+    - 柚子
+    - ゆず
+  themas:
+    - 野菜・果物
+    - 植物・キノコ
+ゆだ:
+  displays:
+    - ユダ
+ゆで:
+  displays:
+    - 茹で
+ゆな:
+  displays:
+    - 湯女
+ゆに:
+  displays:
+    - 由仁
+    - ユニ
+ゆの:
+  displays:
+    - 湯野
+    - ユノ
+ゆば:
+  displays:
+    - 湯葉
+ゆび:
+  displays:
+    - 指
+  themas:
+    - 身体
+ゆみ:
+  displays:
+    - 弓
+    - ユミ
+  themas:
+    - セガ
+ゆめ:
+  displays:
+    - 夢
+ゆや:
+  displays:
+    - 湯屋
+ゆら:
+  displays:
+    - 由良
+ゆり:
+  displays:
+    - 百合
+  themas:
+    - 植物・キノコ
+ゆれ:
+  displays:
+    - 揺れ
+よい:
+  displays:
+    - 宵
+よう:
+  displays:
+    - 用
+よか:
+  displays:
+    - 余暇
+よが:
+  displays:
+    - ヨガ
+よき:
+  displays:
+    - 予期
+よぎ:
+  displays:
+    - 余儀
+よく:
+  displays:
+    - 欲
+よこ:
+  displays:
+    - 横
+よご:
+  displays:
+    - 予後
+    - 余呉
+よし:
+  displays:
+    - ヨシ
+    - 葦
+    - 余資
+    - 善し
+  themas:
+    - 植物・キノコ
+よじ:
+  displays:
+    - 余事
+よせ:
+  displays:
+    - 寄席
+よそ:
+  displays:
+    - 他所
+    - 余所
+よた:
+  displays:
+    - 与太
+よち:
+  displays:
+    - 予知
+    - 余地
+よど:
+  displays:
+    - 淀
+よの:
+  displays:
+    - 与野
+よは:
+  displays:
+    - 余波
+よび:
+  displays:
+    - 予備
+よべ:
+  displays:
+    - 余部
+よみ:
+  displays:
+    - 黄泉
+よめ:
+  displays:
+    - 嫁
+よよ:
+  displays:
+    - 夜夜
+より:
+  displays:
+    - ヨリ
+よる:
+  displays:
+    - 夜
+よれ:
+  displays:
+    - ヨレ
+よわ:
+  displays:
+    - 余話
+よん:
+  displays:
+    - '4'
+らあ:
+  displays:
+    - ラー
+らい:
+  displays:
+    - ライ
+らう:
+  displays:
+    - ラウ・チェン
+  themas:
+    - セガ
+らく:
+  displays:
+    - 楽
+らぐ:
+  displays:
+    - ラグ
+らず:
+  displays:
+    - ラズ
+  themas:
+    - セガ
+らち:
+  displays:
+    - 拉致
+    - 埒
+らて:
+  displays:
+    - ラテ
+らば:
+  displays:
+    - 騾馬
+  themas:
+    - 哺乳類
+    - いきもの
+らふ:
+  displays:
+    - 裸婦
+らぶ:
+  displays:
+    - ラブ
+    - ＬＯＶＥ
+  themas:
+    - セガ
+らぼ:
+  displays:
+    - ラボ
+らま:
+  displays:
+    - ラマ
+  themas:
+    - 哺乳類
+    - いきもの
+らむ:
+  displays:
+    - ラム
+らめ:
+  displays:
+    - ラメ
+らら:
+  displays:
+    - LaLa
+らん:
+  displays:
+    - 蘭
+    - 欄
+  themas:
+    - 植物・キノコ
+りい:
+  displays:
+    - Lee
+    - 李異
+  themas:
+    - 三国志
+りか:
+  displays:
+    - 理科
+  themas:
+    - 学校の教科
+りが:
+  displays:
+    - リガ
+りき:
+  displays:
+    - 利器
+りく:
+  displays:
+    - 陸
+りこ:
+  displays:
+    - 利己
+    - レッドリング・リコ（リコ・タイレル）
+  themas:
+    - セガ
+りさ:
+  displays:
+    - LISA
+    - リサ
+  themas:
+    - セガ
+りし:
+  displays:
+    - 利子
+りじ:
+  displays:
+    - 理事
+りす:
+  displays:
+    - リス
+  themas:
+    - 哺乳類
+    - いきもの
+りた:
+  displays:
+    - 利他
+りち:
+  displays:
+    - 理知
+りつ:
+  displays:
+    - 率
+りの:
+  displays:
+    - リノ
+りふ:
+  displays:
+    - 利府
+りぶ:
+  displays:
+    - リブ
+りぼ:
+  displays:
+    - リボ
+りま:
+  displays:
+    - リマ
+りら:
+  displays:
+    - リラ
+  themas:
+    - 植物・キノコ
+りり:
+  displays:
+    - リリ
+  themas:
+    - セガ
+りる:
+  displays:
+    - リル
+りろ:
+  displays:
+    - 理路
+りん:
+  displays:
+    - リン(元素)
+るい:
+  displays:
+    - 類
+    - 塁
+るう:
+  displays:
+    - ルー
+るす:
+  displays:
+    - 留守
+るつ:
+  displays:
+    - ルツ
+  themas:
+    - セガ
+るな:
+  displays:
+    - ルナ
+  themas:
+    - 星
+るび:
+  displays:
+    - ルビ
+るふ:
+  displays:
+    - 流布
+るぽ:
+  displays:
+    - ルポ
+るり:
+  displays:
+    - 瑠璃
+るる:
+  displays:
+    - 縷々
+れあ:
+  displays:
+    - レア
+  themas:
+    - 鳥
+    - 星
+    - いきもの
+れい:
+  displays:
+    - 例
+    - 霊
+    - 礼
+    - 雷
+    - 綾波レイ【コラボ】
+  themas:
+    - セガ
+れき:
+  displays:
+    - 暦
+れご:
+  displays:
+    - レゴ
+れじ:
+  displays:
+    - レジ
+れす:
+  displays:
+    - レス
+れず:
+  displays:
+    - Rez
+    - レズ
+  themas:
+    - セガ
+れだ:
+  displays:
+    - レダ
+  themas:
+    - 星
+れつ:
+  displays:
+    - 列
+れと:
+  displays:
+    - レト
+れな:
+  displays:
+    - RENA
+れに:
+  displays:
+    - レニ
+  themas:
+    - セガ
+れぼ:
+  displays:
+    - Revo
+れも:
+  displays:
+    - レモ
+ろう:
+  displays:
+    - 蝋
+    - 牢
+ろか:
+  displays:
+    - 濾過
+ろき:
+  displays:
+    - ロキ
+ろく:
+  displays:
+    - '6'
+ろぐ:
+  displays:
+    - ログ
+ろけ:
+  displays:
+    - ロケ
+ろげ:
+  displays:
+    - ロゲ
+  themas:
+    - 星
+ろこ:
+  displays:
+    - ロコ
+ろご:
+  displays:
+    - ロゴ
+ろざ:
+  displays:
+    - 炉座
+  themas:
+    - 星
+ろし:
+  displays:
+    - ろ紙
+ろじ:
+  displays:
+    - 路地
+ろす:
+  displays:
+    - ロス
+ろぜ:
+  displays:
+    - ロゼ
+ろと:
+  displays:
+    - ロト
+ろは:
+  displays:
+    - ロハ
+ろば:
+  displays:
+    - ロバ
+    - 驢馬
+  themas:
+    - 哺乳類
+    - いきもの
+ろぼ:
+  displays:
+    - ロボ
+    - ROBO
+  themas:
+    - セガ
+ろむ:
+  displays:
+    - ROM
+ろめ:
+  displays:
+    - ロメ
+ろり:
+  displays:
+    - ロリ
+ろん:
+  displays:
+    - 論
+わい:
+  displays:
+    - Ｙ
+わか:
+  displays:
+    - 和歌
+    - ワカ
+わき:
+  displays:
+    - 腋
+    - 脇
+    - 和木
+  themas:
+    - 身体
+わぎ:
+  displays:
+    - 和議
+わく:
+  displays:
+    - 枠
+わけ:
+  displays:
+    - 訳
+    - 和気
+わご:
+  displays:
+    - 和語
+わさ:
+  displays:
+    - 和佐
+わざ:
+  displays:
+    - 技
+    - わざ
+わし:
+  displays:
+    - 鷲
+    - 和紙
+  themas:
+    - いきもの
+    - 鳥
+わた:
+  displays:
+    - 綿
+  themas:
+    - 植物・キノコ
+わだ:
+  displays:
+    - 和田
+わち:
+  displays:
+    - 和知
+わど:
+  displays:
+    - 和戸
+わな:
+  displays:
+    - 罠
+わに:
+  displays:
+    - 鰐
+    - ワニ
+    - 和邇
+  themas:
+    - いきもの
+わび:
+  displays:
+    - 詫び
+わむ:
+  displays:
+    - ワム!
+わや:
+  displays:
+    - わや
+わら:
+  displays:
+    - 藁
+  themas:
+    - 植物・キノコ
+わる:
+  displays:
+    - 悪
+わろ:
+  displays:
+    - ワロ
+わん:
+  displays:
+    - ワン（1）
+    - 椀
+    - 湾
+  themas:
+    - 自然地形
