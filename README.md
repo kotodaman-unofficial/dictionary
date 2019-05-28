@@ -37,7 +37,7 @@ API
 
 くわしいオプションについては [./test/index.mjs](./test/index.mjs) を参考にしてください
 
-# kotodamanFinder(word, opts = {}) => { count, rows, opts }
+# finder(word, opts = {}) => { count, rows, opts }
 
 単語 `word` に一致する言葉を最大200件まで返します
 
@@ -51,11 +51,11 @@ API
 
 # finder.parallelMerge(board, word) => parallelBoard (Experimental API (so buggy))
 
-盤面 `board` に対し、 wordが作成できるばあいは parallelBoard[0] に盤面の文字、 parallelBoard[1] にword を合成した配列を返します
+盤面 `board` に対し、 wordが作成できるばあいは `parallelBoard[0]` に盤面の文字、 `parallelBoard[1]` に `word` を合成した配列を返します
 
 # finder.normalizeMatch(haystack, needle)
 
-濁点、半濁点、拗音を無視してhaystackがneedleを含むかチェックします
+濁点、半濁点、拗音を無視して `haystack` が `needle` を含むかチェックします
 
 # finder.need(needle, haystacks)
 
