@@ -1,5 +1,13 @@
-コトダマン辞書検索json + 検索用javascriptライブラリ
+@kotodaman-unofficial/dictionary
 ---
+<p align="right">
+  <a href="https://www.npmjs.com/package/@kotodaman-unofficial/dictionary">
+    <img alt="Npm version" src="https://badge.fury.io/js/%40kotodaman-unofficial%2Fdictionary.svg">
+  </a>
+  <a href="https://travis-ci.org/kotodaman-unofficial/dictionary">
+    <img alt="Build Status" src="https://travis-ci.org/kotodaman-unofficial/dictionary.svg?branch=master">
+  </a>
+</p>
 
 辞書データを内包したUMD形式のモジュールです。ブラウザ・NodeJS両方で使用できます。
 
@@ -60,6 +68,17 @@ API
 # finder.need(needle, haystacks)
 
 検索した言葉 `haystacks` に対し 必要文字 `needle` でさらに絞り込みをかけます
+
+テスト
+---
+```bash
+git clone git@github.com:kotodaman-unofficial/dictionary.git
+cd dictionary
+
+yarn
+yarn build
+npm start
+```
 
 License
 ---
