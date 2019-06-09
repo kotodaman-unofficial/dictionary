@@ -1,7 +1,7 @@
 {
   "name": "@kotodaman-unofficial/dictionary",
   "description": "Kotodaman (iPhone App Game) dictionary data and word finder",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "dist/finder.js",
   "scripts": {
     "start": "abby format, test --watch \"{*,src/*,test/*}.mjs\"",
