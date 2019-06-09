@@ -39,7 +39,7 @@ describe("正常系", (it, describe) => {
       it("「」 6,7文字のみ", () => {
         const result = finder("", { digit: [6, 7] });
         strictEqual(result.opts.limit, 200);
-        strictEqual(result.count, 105704);
+        strictEqual(result.count, 105659);
         strictEqual(result.rows[0].word, "ああかあしゃ");
         strictEqual(result.rows[199].word, "あいづたじま");
       });
