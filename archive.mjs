@@ -7,7 +7,8 @@ const yamls = [
   YAML.safeLoad(fs.readFileSync("./src/4.yaml", "utf8")),
   YAML.safeLoad(fs.readFileSync("./src/5.yaml", "utf8")),
   YAML.safeLoad(fs.readFileSync("./src/6.yaml", "utf8")),
-  YAML.safeLoad(fs.readFileSync("./src/7.yaml", "utf8"))
+  YAML.safeLoad(fs.readFileSync("./src/7.yaml", "utf8")),
+  YAML.safeLoad(fs.readFileSync("./src/collaboration.yaml", "utf8"))
 ];
 const fileName = "dist/words.json";
 
