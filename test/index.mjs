@@ -33,13 +33,13 @@ describe("正常系", (it, describe) => {
         strictEqual(result.opts.limit, 200);
         strictEqual(result.count, finder.words.length);
         strictEqual(result.rows[0].word, "かが");
-        strictEqual(result.rows[199].word, "げこ");
+        strictEqual(result.rows[199].word, "げげ");
         strictEqual(result.rows.length, result.opts.limit);
       });
       it("「」 6,7文字のみ", () => {
         const result = finder("", { digit: [6, 7] });
         strictEqual(result.opts.limit, 200);
-        strictEqual(result.count, 105627);
+        strictEqual(result.count, 105704);
         strictEqual(result.rows[0].word, "ああかあしゃ");
         strictEqual(result.rows[199].word, "あいづたじま");
       });
@@ -158,9 +158,9 @@ describe("正常系", (it, describe) => {
         "し",
         finder.board("○○かい○○ん", { deck, wall: ["2", "3"] })
       );
-      strictEqual(result.length, 65);
+      strictEqual(result.length, 66);
       strictEqual(result[0].word, "いしだん");
-      strictEqual(result[64].word, "じゅか");
+      strictEqual(result[65].word, "じゅか");
     });
     it("クリの盤面に適切な３文字をそれぞれの位置で返すべき", () => {
       const deck = "とあろいわうきまもみやさそ";
