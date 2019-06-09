@@ -40,8 +40,9 @@ const normalizeOptions = (options, extraOptions = {}) => {
       : opts.deck || [];
   opts.wall = typeof opts.wall === "string" ? opts.split(",") : opts.wall;
 
+  opts.displaySearch = false;
   if (opts.word.match(/[^ぁ-ん.]/)) {
-    throw new Error("ひらがな以外の検索は行なえません");
+    opts.displaySearch = true;
   }
 
   return opts;
@@ -134,9 +135,15 @@ const finder = (options, extraOptions = {}) => {
 
     cache[word] = true;
 
-    const key = opts.strict ? word : wordNormalized;
-    if (!wordTester.test(key)) {
-      return;
+    if (opts.displaySearch) {
+      if (displays.join("/").indexOf(opts.word) === -1) {
+        return;
+      }
+    } else {
+      const key = opts.strict ? word : wordNormalized;
+      if (!wordTester.test(key)) {
+        return;
+      }
     }
 
     if (opts.thema) {

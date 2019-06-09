@@ -5,18 +5,6 @@ import finder from "../src";
 
 it.setOptions({ concurrency: 1 });
 
-describe("異常系", it => {
-  it("漢字はエラー", () => {
-    let error = {};
-    try {
-      finder("漢字は無理");
-    } catch (e) {
-      error = e;
-    }
-    strictEqual(error.message, "ひらがな以外の検索は行なえません");
-  });
-});
-
 describe("正常系", (it, describe) => {
   describe("デフォルトで濁音拗音等を区別しない", (it, describe) => {
     describe("前方一致", it => {
@@ -129,6 +117,14 @@ describe("正常系", (it, describe) => {
         strictEqual(result.rows[0].word, "たいしょう");
         strictEqual(result.rows[37].word, "わかたいしょう");
       });
+    });
+  });
+  describe("読み検索", it => {
+    it("コラボのみ", () => {
+      const result = finder("コラボ");
+      strictEqual(result.count, 273);
+      strictEqual(result.rows[0].word, "かい");
+      strictEqual(result.rows[199].word, "さんじゅうし");
     });
   });
   describe("お守り適正検索", it => {
