@@ -27,7 +27,7 @@ describe("正常系", (it, describe) => {
       it("「」 6,7文字のみ", () => {
         const result = finder("", { digit: [6, 7] });
         strictEqual(result.opts.limit, 200);
-        strictEqual(result.count, 105659);
+        strictEqual(result.count, 105439);
         strictEqual(result.rows[0].word, "ああかあしゃ");
         strictEqual(result.rows[199].word, "あいづたじま");
       });
@@ -121,10 +121,10 @@ describe("正常系", (it, describe) => {
   });
   describe("読み検索", it => {
     it("コラボのみ", () => {
-      const result = finder("コラボ");
-      strictEqual(result.count, 273);
+      const result = finder("【コラボ】");
+      strictEqual(result.count, 265);
       strictEqual(result.rows[0].word, "かい");
-      strictEqual(result.rows[199].word, "さんじゅうし");
+      strictEqual(result.rows[199].word, "だいどうめい");
     });
   });
   describe("お守り適正検索", it => {
@@ -154,9 +154,9 @@ describe("正常系", (it, describe) => {
         "し",
         finder.board("○○かい○○ん", { deck, wall: ["2", "3"] })
       );
-      strictEqual(result.length, 66);
+      strictEqual(result.length, 65);
       strictEqual(result[0].word, "いしだん");
-      strictEqual(result[65].word, "じゅか");
+      strictEqual(result[64].word, "じゅか");
     });
     it("クリの盤面に適切な３文字をそれぞれの位置で返すべき", () => {
       const deck = "とあろいわうきまもみやさそ";
